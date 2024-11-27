@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:AutoBalanceResult","AutoBalanceResult");NDSummary.OnSummaryLoaded("CClass:AutoBalanceResult",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[2739,0,0,"AutoBalanceResult"],[2740,0,1,"errorCode","errorCode"],[2741,0,1,"percentAchieved","percentAchieved"],[2742,0,1,"hardwareOffset","hardwareOffset"]]);

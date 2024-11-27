@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Error_NoData","Error_NoData");NDSummary.OnSummaryLoaded("CClass:Error_NoData",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[10406,0,0,"Error_NoData"],[10407,0,2,"Functions","Functions"],[10408,0,1,"Error_NoData","Error_NoData"],[10409,0,1,"Error_NoData","Error_NoData(2)"]]);

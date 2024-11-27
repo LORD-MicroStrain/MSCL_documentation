@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:MockConnection","MockConnection");NDSummary.OnSummaryLoaded("CClass:MockConnection",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[80,0,0,"MockConnection"],[81,0,2,"Functions","Functions"],[82,0,1,"MockConnection","MockConnection"],[83,0,1,"~MockConnection","~MockConnection"]]);

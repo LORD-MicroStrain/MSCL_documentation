@@ -1,0 +1,1 @@
+NDContentPage.OnToolTipsLoaded({4699:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Continuous Built-In Test flags for system process information</div></div>"});
