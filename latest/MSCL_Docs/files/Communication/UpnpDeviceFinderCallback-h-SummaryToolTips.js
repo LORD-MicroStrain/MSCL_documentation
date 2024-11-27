@@ -1,1 +1,1 @@
-NDSummary.OnToolTipsLoaded("File:Communication/UpnpDeviceFinderCallback.h",{9:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Contains information about an added upnp device.</div></div>"});
+NDSummary.OnToolTipsLoaded("File:Communication/UpnpDeviceFinderCallback.h",{51:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Contains information about an added upnp device.</div></div>"});
