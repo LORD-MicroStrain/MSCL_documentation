@@ -1,1 +1,1 @@
-NDSummary.OnToolTipsLoaded("CClass:UpnpDevice",{37:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Contains information about an added upnp device.</div></div>"});
+NDSummary.OnToolTipsLoaded("CClass:UpnpDevice",{45:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Contains information about an added upnp device.</div></div>"});
