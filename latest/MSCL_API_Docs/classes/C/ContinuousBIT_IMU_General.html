@@ -8,55 +8,55 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="Topic2239"></a><div class="CTopic TStruct LC first">
+<a name="Topic2329"></a><div class="CTopic TStruct LC first">
  <div class="CTitle">ContinuousBIT_IMU_General</div>
  <div class="CBody"><p>Continuous Built-In Test flags for general IMU information</p><p>Bits 32-39 of the original 128 bit Continuous Built-In Test flags</p></div>
 </div>
 
-<a name="Bitmasks"></a><a name="Topic2240"></a><div class="CTopic TConstant LC">
+<a name="Bitmasks"></a><a name="Topic2330"></a><div class="CTopic TConstant LC">
  <div class="CTitle">Bitmasks</div>
- <div class="CBody"><p>Bitmasks for general IMU flags</p><div class="CHeading">Note</div><p>These masks are shifted 32 bits to the right from the original 128 bitmask to have a 0 index at bit 32</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="CLOCK_FAULT"></a><a name="Topic2241"></a>CLOCK_FAULT</td><td class="CDLDefinition"><p>0x01 - IMU is not running off the system clock</p></td></tr><tr><td class="CDLEntry"><a name="COMMUNICATION_FAULT"></a><a name="Topic2242"></a>COMMUNICATION_FAULT</td><td class="CDLDefinition"><p>0x02 - No communication with IMU</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERRUN"></a><a name="Topic2243"></a>TIMING_OVERRUN</td><td class="CDLDefinition"><p>0x04 - IMU processes are taking longer than their allotted time</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_ACCEL"></a><a name="Topic2244"></a>CALIBRATION_ERROR_ACCEL</td><td class="CDLDefinition"><p>0x10 - A problem is detected with the accelerometer calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_GYRO"></a><a name="Topic2245"></a>CALIBRATION_ERROR_GYRO</td><td class="CDLDefinition"><p>0x20 - A problem is detected with the gyroscope calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_MAG"></a><a name="Topic2246"></a>CALIBRATION_ERROR_MAG</td><td class="CDLDefinition"><p>0x40 - A problem is detected with the magnetometer calibration</p></td></tr></table></div>
+ <div class="CBody"><p>Bitmasks for general IMU flags</p><div class="CHeading">Note</div><p>These masks are shifted 32 bits to the right from the original 128 bitmask to have a 0 index at bit 32</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="CLOCK_FAULT"></a><a name="Topic2331"></a>CLOCK_FAULT</td><td class="CDLDefinition"><p>0x01 - IMU is not running off the system clock</p></td></tr><tr><td class="CDLEntry"><a name="COMMUNICATION_FAULT"></a><a name="Topic2332"></a>COMMUNICATION_FAULT</td><td class="CDLDefinition"><p>0x02 - No communication with IMU</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERRUN"></a><a name="Topic2333"></a>TIMING_OVERRUN</td><td class="CDLDefinition"><p>0x04 - IMU processes are taking longer than their allotted time</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_ACCEL"></a><a name="Topic2334"></a>CALIBRATION_ERROR_ACCEL</td><td class="CDLDefinition"><p>0x10 - A problem is detected with the accelerometer calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_GYRO"></a><a name="Topic2335"></a>CALIBRATION_ERROR_GYRO</td><td class="CDLDefinition"><p>0x20 - A problem is detected with the gyroscope calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_MAG"></a><a name="Topic2336"></a>CALIBRATION_ERROR_MAG</td><td class="CDLDefinition"><p>0x40 - A problem is detected with the magnetometer calibration</p></td></tr></table></div>
 </div>
 
-<a name="flags"></a><a name="Topic2247"></a><div class="CTopic TFunction LC">
+<a name="flags"></a><a name="Topic2337"></a><div class="CTopic TFunction LC">
  <div class="CTitle">flags</div>
- <div id="NDPrototype2247" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2337" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the general IMU flags (bits 32-39)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">uint8</td><td class="CDLDefinition"><p>Value of the general IMU flags</p></td></tr></table></div>
 </div>
 
-<a name="clockFault"></a><a name="Topic2248"></a><div class="CTopic TFunction LC">
+<a name="clockFault"></a><a name="Topic2338"></a><div class="CTopic TFunction LC">
  <div class="CTitle">clockFault</div>
- <div id="NDPrototype2248" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> clockFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2338" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> clockFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Clock Fault bit (bit 32)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: IMU is not running off the system clock</p></td></tr></table></div>
 </div>
 
-<a name="communicationFault"></a><a name="Topic2249"></a><div class="CTopic TFunction LC">
+<a name="communicationFault"></a><a name="Topic2339"></a><div class="CTopic TFunction LC">
  <div class="CTitle">communicationFault</div>
- <div id="NDPrototype2249" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> communicationFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2339" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> communicationFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Communication Fault bit (bit 33)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: No communication with IMU</p></td></tr></table></div>
 </div>
 
-<a name="timingOverrun"></a><a name="Topic2250"></a><div class="CTopic TFunction LC">
+<a name="timingOverrun"></a><a name="Topic2340"></a><div class="CTopic TFunction LC">
  <div class="CTitle">timingOverrun</div>
- <div id="NDPrototype2250" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverrun() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2340" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverrun() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Timing Overrun bit (bit 34)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: IMU processes are taking longer than their allotted time</p></td></tr></table></div>
 </div>
 
-<a name="calibrationErrorAccel"></a><a name="Topic2251"></a><div class="CTopic TFunction LC">
+<a name="calibrationErrorAccel"></a><a name="Topic2341"></a><div class="CTopic TFunction LC">
  <div class="CTitle">calibrationErrorAccel</div>
- <div id="NDPrototype2251" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorAccel() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2341" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorAccel() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Calibration Error Accelerometer bit (bit 36)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A problem is detected with the accelerometer calibration</p></td></tr></table></div>
 </div>
 
-<a name="calibrationErrorGyro"></a><a name="Topic2252"></a><div class="CTopic TFunction LC">
+<a name="calibrationErrorGyro"></a><a name="Topic2342"></a><div class="CTopic TFunction LC">
  <div class="CTitle">calibrationErrorGyro</div>
- <div id="NDPrototype2252" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorGyro() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2342" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorGyro() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Calibration Error Gyroscope bit (bit 37)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A problem is detected with the gyroscope calibration</p></td></tr></table></div>
 </div>
 
-<a name="calibrationErrorMag"></a><a name="Topic2253"></a><div class="CTopic TFunction LC last">
+<a name="calibrationErrorMag"></a><a name="Topic2343"></a><div class="CTopic TFunction LC last">
  <div class="CTitle">calibrationErrorMag</div>
- <div id="NDPrototype2253" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorMag() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2343" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorMag() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Calibration Error Magnetometer bit (bit 38)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A problem is detected with the magnetometer calibration</p></td></tr></table></div>
 </div>
 
