@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:PositionOffset","PositionOffset");NDSummary.OnSummaryLoaded("CClass:PositionOffset",[["C/C++","C"]],[["Classes","Class"]],[[1450,0,0,"PositionOffset"]]);
+NDFramePage.OnPageTitleLoaded("CClass:PositionOffset","PositionOffset");NDSummary.OnSummaryLoaded("CClass:PositionOffset",[["C/C++","C"]],[["Classes","Class"]],[[2739,0,0,"PositionOffset"]]);
