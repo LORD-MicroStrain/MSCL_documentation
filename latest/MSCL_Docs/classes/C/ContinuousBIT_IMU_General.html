@@ -8,74 +8,74 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="Topic4723"></a><div class="CTopic TStruct LC first">
+<a name="Topic4746"></a><div class="CTopic TStruct LC first">
  <div class="CTitle">ContinuousBIT_IMU_General</div>
  <div class="CBody"><p>Continuous Built-In Test flags for general IMU information</p><p>Bits 32-39 of the original 128 bit Continuous Built-In Test flags</p></div>
 </div>
 
-<a name="Constants"></a><a name="Topic4724"></a><div class="CTopic TGroup LC">
+<a name="Constants"></a><a name="Topic4747"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Constants</div>
 </div>
 
-<a name="Bitmasks"></a><a name="Topic4725"></a><div class="CTopic TConstant LC">
+<a name="Bitmasks"></a><a name="Topic4748"></a><div class="CTopic TConstant LC">
  <div class="CTitle">Bitmasks</div>
- <div class="CBody"><p>Bitmasks for general IMU flags</p><div class="CHeading">Note</div><p>These masks are shifted 32 bits to the right from the original 128 bitmask to have a 0 index at bit 32</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="CLOCK_FAULT"></a><a name="Topic4726"></a>CLOCK_FAULT</td><td class="CDLDefinition"><p>0x01 - IMU is not running off the system clock</p></td></tr><tr><td class="CDLEntry"><a name="COMMUNICATION_FAULT"></a><a name="Topic4727"></a>COMMUNICATION_FAULT</td><td class="CDLDefinition"><p>0x02 - No communication with IMU</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERRUN"></a><a name="Topic4728"></a>TIMING_OVERRUN</td><td class="CDLDefinition"><p>0x04 - IMU processes are taking longer than their allotted time</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_ACCEL"></a><a name="Topic4729"></a>CALIBRATION_ERROR_ACCEL</td><td class="CDLDefinition"><p>0x10 - A problem is detected with the accelerometer calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_GYRO"></a><a name="Topic4730"></a>CALIBRATION_ERROR_GYRO</td><td class="CDLDefinition"><p>0x20 - A problem is detected with the gyroscope calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_MAG"></a><a name="Topic4731"></a>CALIBRATION_ERROR_MAG</td><td class="CDLDefinition"><p>0x40 - A problem is detected with the magnetometer calibration</p></td></tr></table></div>
+ <div class="CBody"><p>Bitmasks for general IMU flags</p><div class="CHeading">Note</div><p>These masks are shifted 32 bits to the right from the original 128 bitmask to have a 0 index at bit 32</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="CLOCK_FAULT"></a><a name="Topic4749"></a>CLOCK_FAULT</td><td class="CDLDefinition"><p>0x01 - IMU is not running off the system clock</p></td></tr><tr><td class="CDLEntry"><a name="COMMUNICATION_FAULT"></a><a name="Topic4750"></a>COMMUNICATION_FAULT</td><td class="CDLDefinition"><p>0x02 - No communication with IMU</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERRUN"></a><a name="Topic4751"></a>TIMING_OVERRUN</td><td class="CDLDefinition"><p>0x04 - IMU processes are taking longer than their allotted time</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_ACCEL"></a><a name="Topic4752"></a>CALIBRATION_ERROR_ACCEL</td><td class="CDLDefinition"><p>0x10 - A problem is detected with the accelerometer calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_GYRO"></a><a name="Topic4753"></a>CALIBRATION_ERROR_GYRO</td><td class="CDLDefinition"><p>0x20 - A problem is detected with the gyroscope calibration</p></td></tr><tr><td class="CDLEntry"><a name="CALIBRATION_ERROR_MAG"></a><a name="Topic4754"></a>CALIBRATION_ERROR_MAG</td><td class="CDLDefinition"><p>0x40 - A problem is detected with the magnetometer calibration</p></td></tr></table></div>
 </div>
 
-<a name="Functions"></a><a name="Topic4732"></a><div class="CTopic TGroup LC">
+<a name="Functions"></a><a name="Topic4755"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="flags"></a><a name="Topic4733"></a><div class="CTopic TFunction LC">
+<a name="flags"></a><a name="Topic4756"></a><div class="CTopic TFunction LC">
  <div class="CTitle">flags</div>
- <div id="NDPrototype4733" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4756" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the general IMU flags (bits 32-39)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">uint8</td><td class="CDLDefinition"><p>Value of the general IMU flags</p></td></tr></table></div>
 </div>
 
-<a name="clockFault"></a><a name="Topic4734"></a><div class="CTopic TFunction LC">
+<a name="clockFault"></a><a name="Topic4757"></a><div class="CTopic TFunction LC">
  <div class="CTitle">clockFault</div>
- <div id="NDPrototype4734" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> clockFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4757" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> clockFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Clock Fault bit (bit 32)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: IMU is not running off the system clock</p></td></tr></table></div>
 </div>
 
-<a name="communicationFault"></a><a name="Topic4735"></a><div class="CTopic TFunction LC">
+<a name="communicationFault"></a><a name="Topic4758"></a><div class="CTopic TFunction LC">
  <div class="CTitle">communicationFault</div>
- <div id="NDPrototype4735" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> communicationFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4758" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> communicationFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Communication Fault bit (bit 33)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: No communication with IMU</p></td></tr></table></div>
 </div>
 
-<a name="timingOverrun"></a><a name="Topic4736"></a><div class="CTopic TFunction LC">
+<a name="timingOverrun"></a><a name="Topic4759"></a><div class="CTopic TFunction LC">
  <div class="CTitle">timingOverrun</div>
- <div id="NDPrototype4736" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverrun() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4759" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverrun() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Timing Overrun bit (bit 34)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: IMU processes are taking longer than their allotted time</p></td></tr></table></div>
 </div>
 
-<a name="calibrationErrorAccel"></a><a name="Topic4737"></a><div class="CTopic TFunction LC">
+<a name="calibrationErrorAccel"></a><a name="Topic4760"></a><div class="CTopic TFunction LC">
  <div class="CTitle">calibrationErrorAccel</div>
- <div id="NDPrototype4737" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorAccel() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4760" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorAccel() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Calibration Error Accelerometer bit (bit 36)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A problem is detected with the accelerometer calibration</p></td></tr></table></div>
 </div>
 
-<a name="calibrationErrorGyro"></a><a name="Topic4738"></a><div class="CTopic TFunction LC">
+<a name="calibrationErrorGyro"></a><a name="Topic4761"></a><div class="CTopic TFunction LC">
  <div class="CTitle">calibrationErrorGyro</div>
- <div id="NDPrototype4738" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorGyro() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4761" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorGyro() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Calibration Error Gyroscope bit (bit 37)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A problem is detected with the gyroscope calibration</p></td></tr></table></div>
 </div>
 
-<a name="calibrationErrorMag"></a><a name="Topic4739"></a><div class="CTopic TFunction LC">
+<a name="calibrationErrorMag"></a><a name="Topic4762"></a><div class="CTopic TFunction LC">
  <div class="CTitle">calibrationErrorMag</div>
- <div id="NDPrototype4739" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorMag() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4762" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> calibrationErrorMag() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Calibration Error Magnetometer bit (bit 38)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A problem is detected with the magnetometer calibration</p></td></tr></table></div>
 </div>
 
-<a name="ContinuousBIT_IMU_General"></a><a name="Topic4740"></a><div class="CTopic TFunction LC">
+<a name="ContinuousBIT_IMU_General"></a><a name="Topic4763"></a><div class="CTopic TFunction LC">
  <div class="CTitle">ContinuousBIT_IMU_General</div>
- <div id="NDPrototype4740" class="NDPrototype NoParameterForm">ContinuousBIT_IMU_General() = default</div>
+ <div id="NDPrototype4763" class="NDPrototype NoParameterForm">ContinuousBIT_IMU_General() = default</div>
 </div>
 
-<a name="ContinuousBIT_IMU_General(2)"></a><a name="Topic4741"></a><div class="CTopic TFunction LC last">
+<a name="ContinuousBIT_IMU_General(2)"></a><a name="Topic4764"></a><div class="CTopic TFunction LC last">
  <div class="CTitle">ContinuousBIT_IMU_General</div>
- <div id="NDPrototype4741" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">ContinuousBIT_IMU_General(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PModifierQualifier first"><span class="SHKeyword">const</span>&nbsp;</td><td class="PType"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName last">bits</td></tr></table></td><td class="PAfterParameters">) : <a href="../../index.html#CClass:Bitfield" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,10072);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Bitfield</a>(static_cast&lt;<span class="SHKeyword">uint64</span>&gt;(bits))</td></tr></table></div>
+ <div id="NDPrototype4764" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">ContinuousBIT_IMU_General(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PModifierQualifier first"><span class="SHKeyword">const</span>&nbsp;</td><td class="PType"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName last">bits</td></tr></table></td><td class="PAfterParameters">) : <a href="../../index.html#CClass:Bitfield" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,10072);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Bitfield</a>(static_cast&lt;<span class="SHKeyword">uint64</span>&gt;(bits))</td></tr></table></div>
  <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">bits<div class="CDLParameterType"><span class="SHKeyword">const</span> <span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>Bits 32-39 of the original 128 bit Continuous Built-In Test flags</p></td></tr></table></div>
 </div>
 

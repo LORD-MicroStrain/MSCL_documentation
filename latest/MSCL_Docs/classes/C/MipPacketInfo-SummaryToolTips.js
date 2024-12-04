@@ -1,1 +1,1 @@
-NDSummary.OnToolTipsLoaded("CClass:MipPacketInfo",{3033:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Contains constants representing information on MIP Packets</div></div>"});
+NDSummary.OnToolTipsLoaded("CClass:MipPacketInfo",{3020:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Contains constants representing information on MIP Packets</div></div>"});

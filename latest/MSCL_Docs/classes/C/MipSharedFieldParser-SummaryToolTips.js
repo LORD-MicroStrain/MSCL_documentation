@@ -1,1 +1,1 @@
-NDSummary.OnToolTipsLoaded("CClass:MipSharedFieldParser",{1066:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1066\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">MipSharedFieldParser</div></div></div></div>"});
+NDSummary.OnToolTipsLoaded("CClass:MipSharedFieldParser",{1106:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1106\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">MipSharedFieldParser</div></div></div></div>"});
