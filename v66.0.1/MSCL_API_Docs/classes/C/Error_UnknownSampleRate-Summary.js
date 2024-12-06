@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Error_UnknownSampleRate","Error_UnknownSampleRate");NDSummary.OnSummaryLoaded("CClass:Error_UnknownSampleRate",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[4600,0,0,"Error_UnknownSampleRate"],[4601,0,1,"Error_UnknownSampleRate","Error_UnknownSampleRate"],[4602,0,1,"Error_UnknownSampleRate","Error_UnknownSampleRate(2)"]]);

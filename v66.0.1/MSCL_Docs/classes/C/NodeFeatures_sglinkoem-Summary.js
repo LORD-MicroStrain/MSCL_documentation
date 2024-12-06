@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:NodeFeatures_sglinkoem","NodeFeatures_sglinkoem");NDSummary.OnSummaryLoaded("CClass:NodeFeatures_sglinkoem",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[6967,0,0,"NodeFeatures_sglinkoem"],[6968,0,2,"Functions","Functions"],[6969,0,1,"NodeFeatures_sglinkoem","NodeFeatures_sglinkoem"]]);

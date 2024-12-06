@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:RawBytePacket","RawBytePacket");NDSummary.OnSummaryLoaded("CClass:RawBytePacket",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Types","Type"]],[[33,0,0,"RawBytePacket"],[34,0,1,"type","type"],[35,0,1,"source","source"],[36,0,1,"payload","payload"],[37,0,2,"RawBytePackets","RawBytePackets"]]);

@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Bin","Bin");NDSummary.OnSummaryLoaded("CClass:Bin",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Types","Type"]],[[4581,0,0,"Bin"],[4582,0,1,"Bin","Bin"],[4583,0,1,"start","start"],[4584,0,1,"end","end"],[4585,0,1,"count","count"],[4586,0,2,"Bins","Bins"]]);

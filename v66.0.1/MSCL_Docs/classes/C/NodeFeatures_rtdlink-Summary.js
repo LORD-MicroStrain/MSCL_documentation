@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:NodeFeatures_rtdlink","NodeFeatures_rtdlink");NDSummary.OnSummaryLoaded("CClass:NodeFeatures_rtdlink",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[6985,0,0,"NodeFeatures_rtdlink"],[6986,0,2,"Functions","Functions"],[6987,0,1,"NodeFeatures_rtdlink","NodeFeatures_rtdlink"]]);

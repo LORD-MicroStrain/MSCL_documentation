@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:DeviceStatusFlags","DeviceStatusFlags");NDSummary.OnSummaryLoaded("CClass:DeviceStatusFlags",[["C/C++","C"]],[["Classes","Class"],["Constants","Constant"],["Groups","Group"]],[[5144,0,0,"DeviceStatusFlags"],[5145,0,2,"Constants","Constants"],[5146,0,1,"Packet Bytes","Packet_Bytes"],[5147,0,1,,"FIELD_DATA_BYTE"]]);

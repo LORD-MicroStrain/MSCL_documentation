@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Devices","Devices");NDSummary.OnSummaryLoaded("CClass:Devices",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Types","Type"]],[[11,0,0,"Devices"],[12,0,2,"DeviceList","DeviceList"],[13,0,1,"listBaseStations","listBaseStations"],[14,0,1,"listInertialDevices","listInertialDevices"],[15,0,1,"listPorts","listPorts"]]);

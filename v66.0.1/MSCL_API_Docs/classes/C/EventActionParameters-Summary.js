@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:EventActionParameters","EventActionParameters");NDSummary.OnSummaryLoaded("CClass:EventActionParameters",[["C/C++","C"]],[["Functions","Function"],["Structs","Struct"],["Variables","Variable"]],[[878,0,1,"EventActionParameters"],[879,0,0,"EventActionParameters","EventActionParameters"],[880,0,2,"gpio","gpio"],[881,0,2,"message","message"]]);

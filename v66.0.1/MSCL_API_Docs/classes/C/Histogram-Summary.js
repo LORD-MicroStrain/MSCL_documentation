@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Histogram","Histogram");NDSummary.OnSummaryLoaded("CClass:Histogram",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[4575,0,0,"Histogram"],[4576,0,1,"Histogram","Histogram"],[4577,0,1,"binsStart","binsStart"],[4578,0,1,"binsSize","binsSize"],[4579,0,1,"bins","bins"],[4580,0,1,"addBin","addBin"]]);
