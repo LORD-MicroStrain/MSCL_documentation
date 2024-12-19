@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("zda",["Constant"],[["ZDA",,[["NmeaMessageFormat",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.ZDA","CClass:NmeaMessageFormat:ZDA"]]]]);

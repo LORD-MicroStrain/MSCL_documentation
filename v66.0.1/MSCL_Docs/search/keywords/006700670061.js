@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("gga",["Constant"],[["GGA",,[["NmeaMessageFormat",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.GGA","CClass:NmeaMessageFormat:GGA"]]]]);

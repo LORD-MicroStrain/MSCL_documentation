@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("fwi",["Variable"],[["fwId",,[["GnssReceiverInfo",,,,0,"File:MicroStrain/MIP/MipTypes.h:GnssReceiverInfo.fwId","CClass:GnssReceiverInfo:fwId"]]]]);

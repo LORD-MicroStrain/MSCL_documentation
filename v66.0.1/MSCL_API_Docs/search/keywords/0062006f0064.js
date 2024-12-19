@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("bod",["Enumeration"],[["BODY_FRAME_VEL_AIDING",,[[,,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:BODY_FRAME_VEL_AIDING"]]]]);

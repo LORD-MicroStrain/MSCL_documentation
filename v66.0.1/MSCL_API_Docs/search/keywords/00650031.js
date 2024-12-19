@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("e1",["Enumeration"],[["E1",,[["GnssSignalConfiguration",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.E1","CClass:GnssSignalConfiguration:E1"]]]]);

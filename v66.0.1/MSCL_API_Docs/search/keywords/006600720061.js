@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("fra",["Function"],[["frameId",,[["AidingMeasurementInput",,,,0,"File:MicroStrain/MIP/MipTypes.h:AidingMeasurementInput.frameId","CClass:AidingMeasurementInput:frameId"]]]]);

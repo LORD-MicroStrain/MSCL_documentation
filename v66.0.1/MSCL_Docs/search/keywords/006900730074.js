@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("ist",["Function"],[["isTestMode",,[["EventTriggerInfo",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:EventTriggerInfo.isTestMode","CClass:EventTriggerInfo:isTestMode"]]]]);

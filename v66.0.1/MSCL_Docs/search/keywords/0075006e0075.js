@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("unu",["Constant"],[["UNUSED",,[["GpioConfiguration",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:GpioConfiguration.UNUSED","CClass:GpioConfiguration:UNUSED"]]],["UNUSED_FEATURE",,[["GpioConfiguration",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:GpioConfiguration.UNUSED_FEATURE","CClass:GpioConfiguration:UNUSED_FEATURE"]]]]);

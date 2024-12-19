@@ -1,1 +1,0 @@
-NDSummary.OnToolTipsLoaded("CClass:PositionOffset",{99:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype99\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">PositionOffset</div></div></div><div class=\"TTSummary\">Represents a position offset (x, y, z).</div></div>"});

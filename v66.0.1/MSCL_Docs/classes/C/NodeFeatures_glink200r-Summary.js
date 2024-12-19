@@ -1,1 +1,0 @@
-NDFramePage.OnPageTitleLoaded("CClass:NodeFeatures_glink200r","NodeFeatures_glink200r");NDSummary.OnSummaryLoaded("CClass:NodeFeatures_glink200r",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[6997,0,0,"NodeFeatures_glink200r"],[6998,0,2,"Functions","Functions"],[6999,0,1,"NodeFeatures_glink200","NodeFeatures_glink200"]]);

@@ -1,1 +1,0 @@
-NDContentPage.OnToolTipsLoaded({4951:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Continuous Built-In Test flags for general IMU information</div></div>",4955:"<div class=\"NDToolTip TStruct LC\"><div class=\"TTSummary\">Continuous Built-In Test flags for IMU sensors information</div></div>"});

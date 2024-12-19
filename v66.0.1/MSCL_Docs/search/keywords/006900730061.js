@@ -1,1 +1,0 @@
-NDSearch.OnPrefixDataLoaded("isa",["Function"],[["isActive",,[["EventTriggerInfo",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:EventTriggerInfo.isActive","CClass:EventTriggerInfo:isActive"]]],["isAnySet",,[["WirelessNodeConfig",,,,0,"File:MicroStrain/Wireless/Configuration/WirelessNodeConfig.h:WirelessNodeConfig.isAnySet","CClass:WirelessNodeConfig:isAnySet"]]]]);
