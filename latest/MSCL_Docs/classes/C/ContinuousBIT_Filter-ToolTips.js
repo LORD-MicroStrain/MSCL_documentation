@@ -1,1 +1,1 @@
-NDContentPage.OnToolTipsLoaded({10072:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype10072\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">Bitfield</div></div></div></div>"});
+NDContentPage.OnToolTipsLoaded({10098:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype10098\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">Bitfield</div></div></div></div>"});
