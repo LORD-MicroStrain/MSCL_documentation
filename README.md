@@ -10,4 +10,3 @@ This repo hosts the documentation for MSCL. The documentation can be viewed at t
 |---------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | latest  | [Full Documentation](https://lord-microstrain.github.io/MSCL_documentation/latest/MSCL_API_Docs)  | [Public Documentation](https://lord-microstrain.github.io/MSCL_documentation/latest/MSCL_Docs)  |
 | v67.0.0 | [Full Documentation](https://lord-microstrain.github.io/MSCL_documentation/v67.0.0/MSCL_API_Docs) | [Public Documentation](https://lord-microstrain.github.io/MSCL_documentation/v67.0.0/MSCL_Docs) |
-| v66.0.0 | [Full Documentation](https://lord-microstrain.github.io/MSCL_documentation/v66.0.0/MSCL_API_Docs) | [Public Documentation](https://lord-microstrain.github.io/MSCL_documentation/v66.0.0/MSCL_Docs) |
