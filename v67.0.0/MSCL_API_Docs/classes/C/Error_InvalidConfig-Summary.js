@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Error_InvalidConfig","Error_InvalidConfig");NDSummary.OnSummaryLoaded("CClass:Error_InvalidConfig",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[4669,0,0,"Error_InvalidConfig"],[4670,0,1,"Error_InvalidConfig","Error_InvalidConfig"],[4671,0,1,"issues","issues"]]);

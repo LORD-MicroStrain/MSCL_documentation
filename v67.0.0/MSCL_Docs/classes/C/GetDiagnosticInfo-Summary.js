@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:GetDiagnosticInfo","GetDiagnosticInfo");NDSummary.OnSummaryLoaded("CClass:GetDiagnosticInfo",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[5560,0,0,"GetDiagnosticInfo"],[5561,0,2,"Functions","Functions"],[5562,0,1,"buildCommand","buildCommand"]]);

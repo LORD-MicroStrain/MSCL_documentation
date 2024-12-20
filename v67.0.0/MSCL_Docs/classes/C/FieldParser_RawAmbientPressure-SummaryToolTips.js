@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("CClass:FieldParser_RawAmbientPressure",{2592:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype2592\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">FieldParser_RawAmbientPressure</div></div></div><div class=\"TTSummary\">The field parser for Raw Ambient Pressure.</div></div>"});

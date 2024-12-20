@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CSharpClass:mscl.Error","Error");NDSummary.OnSummaryLoaded("CSharpClass:mscl.Error",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[9989,0,0,"<span class=\"Qualifier\">mscl.</span>&#8203;Error"],[9990,0,2,"Functions","Functions"],[9991,0,1,"Error","Error"]]);

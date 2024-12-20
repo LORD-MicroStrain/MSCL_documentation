@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:PingResponse","PingResponse");NDSummary.OnSummaryLoaded("CClass:PingResponse",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[2638,0,0,"PingResponse"],[2639,0,1,"success","success"],[2640,0,1,"nodeRssi","nodeRssi"],[2641,0,1,"baseRssi","baseRssi"]]);
