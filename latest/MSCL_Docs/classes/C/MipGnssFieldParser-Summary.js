@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:MipGnssFieldParser","MipGnssFieldParser");NDSummary.OnSummaryLoaded("CClass:MipGnssFieldParser",[["C/C++","C"]],[["Classes","Class"]],[[1217,0,0,"MipGnssFieldParser"]]);
+NDFramePage.OnPageTitleLoaded("CClass:MipGnssFieldParser","MipGnssFieldParser");NDSummary.OnSummaryLoaded("CClass:MipGnssFieldParser",[["C/C++","C"]],[["Classes","Class"]],[[1081,0,0,"MipGnssFieldParser"]]);
