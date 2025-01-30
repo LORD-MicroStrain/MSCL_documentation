@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("CClass:FieldParser_EcefPosition",{1266:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1266\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">FieldParser_EcefPosition</div></div></div><div class=\"TTSummary\">The field parser for ECEF Position data</div></div>"});

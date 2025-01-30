@@ -1,1 +1,1 @@
-NDContentPage.OnToolTipsLoaded({2304:"<div class=\"NDToolTip TEnumeration LC\"><div class=\"TTSummary\">Available connection types</div></div>"});
+NDContentPage.OnToolTipsLoaded({2032:"<div class=\"NDToolTip TEnumeration LC\"><div class=\"TTSummary\">Available connection types</div></div>"});
