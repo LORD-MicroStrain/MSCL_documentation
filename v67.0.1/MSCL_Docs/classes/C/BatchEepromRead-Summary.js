@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:BatchEepromRead","BatchEepromRead");NDSummary.OnSummaryLoaded("CClass:BatchEepromRead",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[5628,0,0,"BatchEepromRead"],[5629,0,2,"Functions","Functions"],[5630,0,1,"buildCommand","buildCommand"]]);

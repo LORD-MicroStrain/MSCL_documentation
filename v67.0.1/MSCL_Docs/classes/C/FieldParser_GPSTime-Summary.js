@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:FieldParser_GPSTime","FieldParser_GPSTime");NDSummary.OnSummaryLoaded("CClass:FieldParser_GPSTime",[["C/C++","C"]],[["Classes","Class"],["Constants","Constant"],["Groups","Group"]],[[1518,0,0,"FieldParser_GPSTime"],[1519,0,2,"Constants","Constants"],[1520,0,1,"Valid Flags","Valid_Flags"],[1521,0,1,,"TOW_VALID"],[1522,0,1,,"WEEK_NUM_VALID"]]);

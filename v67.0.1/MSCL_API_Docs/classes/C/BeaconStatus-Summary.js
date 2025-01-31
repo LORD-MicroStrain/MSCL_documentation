@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:BeaconStatus","BeaconStatus");NDSummary.OnSummaryLoaded("CClass:BeaconStatus",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[2720,0,0,"BeaconStatus"],[2721,0,1,"enabled","enabled"],[2722,0,1,"timestamp;","timestamp_"]]);

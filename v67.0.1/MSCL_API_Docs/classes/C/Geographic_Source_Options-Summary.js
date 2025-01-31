@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Geographic_Source_Options","Geographic Source Options");NDSummary.OnSummaryLoaded("CClass:Geographic_Source_Options",[["C/C++","C"]],[["Structs","Struct"],["Variables","Variable"]],[[2022,0,0,"Geographic Source Options"],[2023,0,1,"source","source"],[2024,0,1,"manual","manual"]]);
