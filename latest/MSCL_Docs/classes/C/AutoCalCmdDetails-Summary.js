@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:AutoCalCmdDetails","AutoCalCmdDetails");NDSummary.OnSummaryLoaded("CClass:AutoCalCmdDetails",[["C/C++","C"]],[["Structs","Struct"]],[[4813,0,0,"AutoCalCmdDetails"]]);
+NDFramePage.OnPageTitleLoaded("CClass:AutoCalCmdDetails","AutoCalCmdDetails");NDSummary.OnSummaryLoaded("CClass:AutoCalCmdDetails",[["C/C++","C"]],[["Structs","Struct"]],[[5318,0,0,"AutoCalCmdDetails"]]);

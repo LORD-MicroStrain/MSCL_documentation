@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:Sleep","Sleep");NDSummary.OnSummaryLoaded("CClass:Sleep",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[4380,0,0,"Sleep"],[4381,0,2,"Functions","Functions"],[4382,0,1,"buildCommand","buildCommand"]]);
+NDFramePage.OnPageTitleLoaded("CClass:Sleep","Sleep");NDSummary.OnSummaryLoaded("CClass:Sleep",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[4884,0,0,"Sleep"],[4885,0,2,"Functions","Functions"],[4886,0,1,"buildCommand","buildCommand"]]);
