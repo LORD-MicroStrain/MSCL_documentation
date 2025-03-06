@@ -1,1 +1,0 @@
-NDFramePage.OnPageTitleLoaded("CClass:FieldParser_EcefPosition","FieldParser_EcefPosition");NDSummary.OnSummaryLoaded("CClass:FieldParser_EcefPosition",[["C/C++","C"]],[["Classes","Class"],["Constants","Constant"],["Groups","Group"]],[[1447,0,0,"FieldParser_EcefPosition"],[1448,0,2,"Constants","Constants"],[1449,0,1,"Valid Flags","Valid_Flags"],[1450,0,1,,"VALID_FLAG"]]);
