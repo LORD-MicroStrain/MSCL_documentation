@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:GeometricUncertainty","GeometricUncertainty");NDSummary.OnSummaryLoaded("CClass:GeometricUncertainty",[["C/C++","C"]],[["Classes","Class"]],[[1476,0,0,"GeometricUncertainty"]]);
+NDFramePage.OnPageTitleLoaded("CClass:GeometricUncertainty","GeometricUncertainty");NDSummary.OnSummaryLoaded("CClass:GeometricUncertainty",[["C/C++","C"]],[["Classes","Class"]],[[1670,0,0,"GeometricUncertainty"]]);

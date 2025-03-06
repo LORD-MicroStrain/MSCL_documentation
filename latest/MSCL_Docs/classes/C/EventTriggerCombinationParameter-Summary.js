@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:EventTriggerCombinationParameter","EventTriggerCombinationParameter");NDSummary.OnSummaryLoaded("CClass:EventTriggerCombinationParameter",[["C/C++","C"]],[["Structs","Struct"]],[[3028,0,0,"EventTriggerCombinationParameter"]]);
+NDFramePage.OnPageTitleLoaded("CClass:EventTriggerCombinationParameter","EventTriggerCombinationParameter");NDSummary.OnSummaryLoaded("CClass:EventTriggerCombinationParameter",[["C/C++","C"]],[["Structs","Struct"]],[[2657,0,0,"EventTriggerCombinationParameter"]]);
