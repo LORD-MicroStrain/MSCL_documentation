@@ -8,95 +8,95 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="Topic2412"></a><div class="CTopic TStruct LC first">
+<a name="Topic2960"></a><div class="CTopic TStruct LC first">
  <div class="CTitle">GpioConfiguration</div>
 </div>
 
-<a name="Types"></a><a name="Topic2413"></a><div class="CTopic TGroup LC">
+<a name="Types"></a><a name="Topic2961"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Types</div>
 </div>
 
-<a name="Feature"></a><a name="Topic2414"></a><div class="CTopic TEnumeration LC">
+<a name="Feature"></a><a name="Topic2962"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">Feature</div>
- <div class="CBody"><p>GPIO Feature options. Determines how the pin will be used</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="UNUSED_FEATURE"></a><a name="Topic2415"></a>UNUSED_FEATURE</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_FEATURE"></a><a name="Topic2416"></a>GPIO_FEATURE</td><td class="CDLDefinition"><p>0x01 - Direct control of pin output state or to stream the state of the pin</p></td></tr><tr><td class="CDLEntry"><a name="PPS_FEATURE"></a><a name="Topic2417"></a>PPS_FEATURE</td><td class="CDLDefinition"><p>0x02 - Pulse per second input or output</p></td></tr><tr><td class="CDLEntry"><a name="ENCODER_FEATURE"></a><a name="Topic2418"></a>ENCODER_FEATURE</td><td class="CDLDefinition"><p>0x03 - Motor encoder/odometer input</p></td></tr><tr><td class="CDLEntry"><a name="EVENT_TIMESTAMP_FEATURE"></a><a name="Topic2419"></a>EVENT_TIMESTAMP_FEATURE</td><td class="CDLDefinition"><p>0x04 - Precision event timestamping</p></td></tr><tr><td class="CDLEntry"><a name="UART_FEATURE"></a><a name="Topic2420"></a>UART_FEATURE</td><td class="CDLDefinition"><p>0x05 - UART data or control lines</p></td></tr></table></div>
+ <div class="CBody"><p>GPIO Feature options. Determines how the pin will be used</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="UNUSED_FEATURE"></a><a name="Topic2963"></a>UNUSED_FEATURE</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_FEATURE"></a><a name="Topic2964"></a>GPIO_FEATURE</td><td class="CDLDefinition"><p>0x01 - Direct control of pin output state or to stream the state of the pin</p></td></tr><tr><td class="CDLEntry"><a name="PPS_FEATURE"></a><a name="Topic2965"></a>PPS_FEATURE</td><td class="CDLDefinition"><p>0x02 - Pulse per second input or output</p></td></tr><tr><td class="CDLEntry"><a name="ENCODER_FEATURE"></a><a name="Topic2966"></a>ENCODER_FEATURE</td><td class="CDLDefinition"><p>0x03 - Motor encoder/odometer input</p></td></tr><tr><td class="CDLEntry"><a name="EVENT_TIMESTAMP_FEATURE"></a><a name="Topic2967"></a>EVENT_TIMESTAMP_FEATURE</td><td class="CDLDefinition"><p>0x04 - Precision event timestamping</p></td></tr><tr><td class="CDLEntry"><a name="UART_FEATURE"></a><a name="Topic2968"></a>UART_FEATURE</td><td class="CDLDefinition"><p>0x05 - UART data or control lines</p></td></tr></table></div>
 </div>
 
-<a name="GpioBehavior"></a><a name="Topic2421"></a><div class="CTopic TEnumeration LC">
+<a name="GpioBehavior"></a><a name="Topic2969"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">GpioBehavior</div>
- <div class="CBody"><p>GPIO Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="GPIO_UNUSED"></a><a name="Topic2422"></a>GPIO_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_INPUT"></a><a name="Topic2423"></a>GPIO_INPUT</td><td class="CDLDefinition"><p>0x01 - Pin will be an input</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_OUTPUT_LOW"></a><a name="Topic2424"></a>GPIO_OUTPUT_LOW</td><td class="CDLDefinition"><p>0x02 - Pin is an output initially in the LOW state</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_OUTPUT_HIGH"></a><a name="Topic2425"></a>GPIO_OUTPUT_HIGH</td><td class="CDLDefinition"><p>0x03 - Pin is an output initially in the HIGH state</p></td></tr></table></div>
+ <div class="CBody"><p>GPIO Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="GPIO_UNUSED"></a><a name="Topic2970"></a>GPIO_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_INPUT"></a><a name="Topic2971"></a>GPIO_INPUT</td><td class="CDLDefinition"><p>0x01 - Pin will be an input</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_OUTPUT_LOW"></a><a name="Topic2972"></a>GPIO_OUTPUT_LOW</td><td class="CDLDefinition"><p>0x02 - Pin is an output initially in the LOW state</p></td></tr><tr><td class="CDLEntry"><a name="GPIO_OUTPUT_HIGH"></a><a name="Topic2973"></a>GPIO_OUTPUT_HIGH</td><td class="CDLDefinition"><p>0x03 - Pin is an output initially in the HIGH state</p></td></tr></table></div>
 </div>
 
-<a name="PpsBehavior"></a><a name="Topic2426"></a><div class="CTopic TEnumeration LC">
+<a name="PpsBehavior"></a><a name="Topic2974"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">PpsBehavior</div>
- <div class="CBody"><p>PPS Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="UNUSED"></a><a name="Topic2427"></a>UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="PPS_INPUT"></a><a name="Topic2428"></a>PPS_INPUT</td><td class="CDLDefinition"><p>0x01 - Pin will receive the pulse-per-second signal</p></td></tr><tr><td class="CDLEntry"><a name="PPS_OUTPUT"></a><a name="Topic2429"></a>PPS_OUTPUT</td><td class="CDLDefinition"><p>0x02 - Pin will transmit the pulse-per-second signal from the device</p></td></tr></table></div>
+ <div class="CBody"><p>PPS Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="UNUSED"></a><a name="Topic2975"></a>UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="PPS_INPUT"></a><a name="Topic2976"></a>PPS_INPUT</td><td class="CDLDefinition"><p>0x01 - Pin will receive the pulse-per-second signal</p></td></tr><tr><td class="CDLEntry"><a name="PPS_OUTPUT"></a><a name="Topic2977"></a>PPS_OUTPUT</td><td class="CDLDefinition"><p>0x02 - Pin will transmit the pulse-per-second signal from the device</p></td></tr></table></div>
 </div>
 
-<a name="EncoderBehavior"></a><a name="Topic2430"></a><div class="CTopic TEnumeration LC">
+<a name="EncoderBehavior"></a><a name="Topic2978"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">EncoderBehavior</div>
- <div class="CBody"><p>Encoder Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="ENCODER_UNUSED"></a><a name="Topic2431"></a>ENCODER_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="ENCODER_A"></a><a name="Topic2432"></a>ENCODER_A</td><td class="CDLDefinition"><p>0x01 - Encoder A</p></td></tr><tr><td class="CDLEntry"><a name="ENCODER_B"></a><a name="Topic2433"></a>ENCODER_B</td><td class="CDLDefinition"><p>0x02 - Encoder B</p></td></tr></table></div>
+ <div class="CBody"><p>Encoder Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="ENCODER_UNUSED"></a><a name="Topic2979"></a>ENCODER_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="ENCODER_A"></a><a name="Topic2980"></a>ENCODER_A</td><td class="CDLDefinition"><p>0x01 - Encoder A</p></td></tr><tr><td class="CDLEntry"><a name="ENCODER_B"></a><a name="Topic2981"></a>ENCODER_B</td><td class="CDLDefinition"><p>0x02 - Encoder B</p></td></tr></table></div>
 </div>
 
-<a name="EventTimestampBehavior"></a><a name="Topic2434"></a><div class="CTopic TEnumeration LC">
+<a name="EventTimestampBehavior"></a><a name="Topic2982"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">EventTimestampBehavior</div>
- <div class="CBody"><p>Event Timestamp Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="TIMESTAMP_UNUSED"></a><a name="Topic2435"></a>TIMESTAMP_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="TIMESTAMP_RISING"></a><a name="Topic2436"></a>TIMESTAMP_RISING</td><td class="CDLDefinition"><p>0x01 - Rising edge will be timestamped</p></td></tr><tr><td class="CDLEntry"><a name="TIMESTAMP_FALLING"></a><a name="Topic2437"></a>TIMESTAMP_FALLING</td><td class="CDLDefinition"><p>0x02 - Falling edge will be timestamped</p></td></tr><tr><td class="CDLEntry"><a name="TIMESTAMP_EITHER"></a><a name="Topic2438"></a>TIMESTAMP_EITHER</td><td class="CDLDefinition"><p>0x03 - Both rising and falling edges will be timestamped</p></td></tr></table></div>
+ <div class="CBody"><p>Event Timestamp Pin behavior</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="TIMESTAMP_UNUSED"></a><a name="Topic2983"></a>TIMESTAMP_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="TIMESTAMP_RISING"></a><a name="Topic2984"></a>TIMESTAMP_RISING</td><td class="CDLDefinition"><p>0x01 - Rising edge will be timestamped</p></td></tr><tr><td class="CDLEntry"><a name="TIMESTAMP_FALLING"></a><a name="Topic2985"></a>TIMESTAMP_FALLING</td><td class="CDLDefinition"><p>0x02 - Falling edge will be timestamped</p></td></tr><tr><td class="CDLEntry"><a name="TIMESTAMP_EITHER"></a><a name="Topic2986"></a>TIMESTAMP_EITHER</td><td class="CDLDefinition"><p>0x03 - Both rising and falling edges will be timestamped</p></td></tr></table></div>
 </div>
 
-<a name="UartBehavior"></a><a name="Topic2439"></a><div class="CTopic TEnumeration LC">
+<a name="UartBehavior"></a><a name="Topic2987"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">UartBehavior</div>
- <div class="CBody"><p>UART Pin behavior Note: only one Transmit and one Receive pin can be configured per port pair (see documentation)</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="UART_UNUSED"></a><a name="Topic2440"></a>UART_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT2_TX"></a><a name="Topic2441"></a>UART_PORT2_TX</td><td class="CDLDefinition"><p>0x21 - UART port 2 transmit</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT2_RX"></a><a name="Topic2442"></a>UART_PORT2_RX</td><td class="CDLDefinition"><p>0x22 - UART port 2 receive</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT3_TX"></a><a name="Topic2443"></a>UART_PORT3_TX</td><td class="CDLDefinition"><p>0x31 - UART port 3 transmit</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT3_RX"></a><a name="Topic2444"></a>UART_PORT3_RX</td><td class="CDLDefinition"><p>0x32 - UART port 3 receive</p></td></tr></table></div>
+ <div class="CBody"><p>UART Pin behavior Note: only one Transmit and one Receive pin can be configured per port pair (see documentation)</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="UART_UNUSED"></a><a name="Topic2988"></a>UART_UNUSED</td><td class="CDLDefinition"><p>0x00 - Pin is unused</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT2_TX"></a><a name="Topic2989"></a>UART_PORT2_TX</td><td class="CDLDefinition"><p>0x21 - UART port 2 transmit</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT2_RX"></a><a name="Topic2990"></a>UART_PORT2_RX</td><td class="CDLDefinition"><p>0x22 - UART port 2 receive</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT3_TX"></a><a name="Topic2991"></a>UART_PORT3_TX</td><td class="CDLDefinition"><p>0x31 - UART port 3 transmit</p></td></tr><tr><td class="CDLEntry"><a name="UART_PORT3_RX"></a><a name="Topic2992"></a>UART_PORT3_RX</td><td class="CDLDefinition"><p>0x32 - UART port 3 receive</p></td></tr></table></div>
 </div>
 
-<a name="PinModes"></a><a name="Topic2445"></a><div class="CTopic TEnumeration LC">
+<a name="PinModes"></a><a name="Topic2993"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">PinModes</div>
- <div class="CBody"><p>PinModes for the pinMode Bitfield</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="NONE"></a><a name="Topic2446"></a>NONE</td><td class="CDLDefinition"><p>0x00 - Pin not set</p></td></tr><tr><td class="CDLEntry"><a name="OPEN_DRAIN"></a><a name="Topic2447"></a>OPEN_DRAIN</td><td class="CDLDefinition"><p>0x01 - The pin will be an open-drain output</p></td></tr><tr><td class="CDLEntry"><a name="PULLDOWN"></a><a name="Topic2448"></a>PULLDOWN</td><td class="CDLDefinition"><p>0x02 - The pin will have an internal pull-down resistor enabled</p></td></tr><tr><td class="CDLEntry"><a name="PULLUP"></a><a name="Topic2449"></a>PULLUP</td><td class="CDLDefinition"><p>0x04 - The pin will have an internal pull-up resistor enabled</p></td></tr></table></div>
+ <div class="CBody"><p>PinModes for the pinMode Bitfield</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="NONE"></a><a name="Topic2994"></a>NONE</td><td class="CDLDefinition"><p>0x00 - Pin not set</p></td></tr><tr><td class="CDLEntry"><a name="OPEN_DRAIN"></a><a name="Topic2995"></a>OPEN_DRAIN</td><td class="CDLDefinition"><p>0x01 - The pin will be an open-drain output</p></td></tr><tr><td class="CDLEntry"><a name="PULLDOWN"></a><a name="Topic2996"></a>PULLDOWN</td><td class="CDLDefinition"><p>0x02 - The pin will have an internal pull-down resistor enabled</p></td></tr><tr><td class="CDLEntry"><a name="PULLUP"></a><a name="Topic2997"></a>PULLUP</td><td class="CDLDefinition"><p>0x04 - The pin will have an internal pull-up resistor enabled</p></td></tr></table></div>
 </div>
 
-<a name="Functions"></a><a name="Topic2450"></a><div class="CTopic TGroup LC">
+<a name="Functions"></a><a name="Topic2998"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="pinModeValue"></a><a name="Topic2451"></a><div class="CTopic TFunction LC">
+<a name="pinModeValue"></a><a name="Topic2999"></a><div class="CTopic TFunction LC">
  <div class="CTitle">pinModeValue</div>
- <div id="NDPrototype2451" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">void</span> pinModeValue(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName last">val</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div>
+ <div id="NDPrototype2999" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">void</span> pinModeValue(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName last">val</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div>
  <div class="CBody"><p>Gets or sets the underlying value for the pin mode bitfield</p></div>
 </div>
 
-<a name="fromCommandResponse"></a><a name="Topic2452"></a><div class="CTopic TFunction LC">
+<a name="fromCommandResponse"></a><a name="Topic3000"></a><div class="CTopic TFunction LC">
  <div class="CTitle">fromCommandResponse</div>
- <div id="NDPrototype2452" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">static</span> <a href="../../index.html#CClass:GpioConfiguration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2412);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration</a> fromCommandResponse(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PModifierQualifier first"><span class="SHKeyword">const</span>&nbsp;</td><td class="PType">MipFieldValues&nbsp;</td><td class="PNamePrefix">&amp;</td><td class="PName">responseValues,</td><td></td><td class="last"></td></tr><tr><td class="first"></td><td class="PType"><span class="SHKeyword">uint8</span>&nbsp;</td><td></td><td class="PName">startIndex&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div>
- <div class="CBody"><p>[static] Build a <a href="../../index.html#CClass:GpioConfiguration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2412);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration</a> object from the read command response &lt;MipFieldValues&gt;.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">responseValues<div class="CDLParameterType"><span class="SHKeyword">const</span> MipFieldValues&amp;</div></td><td class="CDLDefinition"><p>&lt;MipFieldValues&gt; to populate the <a href="../../index.html#CClass:GpioConfiguration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2412);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration</a> object</p></td></tr><tr><td class="CDLEntry">startIndex<div class="CDLParameterType"><span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>default 0 - indicates the index at which to start reading from the responseValues. This should not need to be changed from the default value (0).</p></td></tr></table></div>
+ <div id="NDPrototype3000" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">static</span> <a href="../../index.html#CClass:GpioConfiguration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2960);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration</a> fromCommandResponse(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PModifierQualifier first"><span class="SHKeyword">const</span>&nbsp;</td><td class="PType">MipFieldValues&nbsp;</td><td class="PNamePrefix">&amp;</td><td class="PName">responseValues,</td><td></td><td class="last"></td></tr><tr><td class="first"></td><td class="PType"><span class="SHKeyword">uint8</span>&nbsp;</td><td></td><td class="PName">startIndex&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div>
+ <div class="CBody"><p>[static] Build a <a href="../../index.html#CClass:GpioConfiguration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2960);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration</a> object from the read command response &lt;MipFieldValues&gt;.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">responseValues<div class="CDLParameterType"><span class="SHKeyword">const</span> MipFieldValues&amp;</div></td><td class="CDLDefinition"><p>&lt;MipFieldValues&gt; to populate the <a href="../../index.html#CClass:GpioConfiguration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2960);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration</a> object</p></td></tr><tr><td class="CDLEntry">startIndex<div class="CDLParameterType"><span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>default 0 - indicates the index at which to start reading from the responseValues. This should not need to be changed from the default value (0).</p></td></tr></table></div>
 </div>
 
-<a name="Types(2)"></a><a name="Topic2453"></a><div class="CTopic TGroup LC">
+<a name="Types(2)"></a><a name="Topic3001"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Types</div>
 </div>
 
-<a name="GpioPinId"></a><a name="Topic2454"></a><div class="CTopic TType LC">
+<a name="GpioPinId"></a><a name="Topic3002"></a><div class="CTopic TType LC">
  <div class="CTitle">GpioPinId</div>
  <div class="CBody"><p>A uint8 representing logical GPIO pin IDs</p></div>
 </div>
 
-<a name="GpioPinModeOptions"></a><a name="Topic2455"></a><div class="CTopic TType LC">
+<a name="GpioPinModeOptions"></a><a name="Topic3003"></a><div class="CTopic TType LC">
  <div class="CTitle">GpioPinModeOptions</div>
- <div class="CBody"><p>A vector of <a href="../../index.html#CClass:GpioConfiguration:PinModes" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2445);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration::PinModes</a> representing masked pin modes</p></div>
+ <div class="CBody"><p>A vector of <a href="../../index.html#CClass:GpioConfiguration:PinModes" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2993);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration::PinModes</a> representing masked pin modes</p></div>
 </div>
 
-<a name="GpioBehaviorModes"></a><a name="Topic2456"></a><div class="CTopic TType LC">
+<a name="GpioBehaviorModes"></a><a name="Topic3004"></a><div class="CTopic TType LC">
  <div class="CTitle">GpioBehaviorModes</div>
- <div class="CBody"><p>A map of uint behavior ID, <a href="../../index.html#CClass:GpioConfiguration:GpioPinModeOptions" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2455);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioPinModeOptions</a> pairs</p></div>
+ <div class="CBody"><p>A map of uint behavior ID, <a href="../../index.html#CClass:GpioConfiguration:GpioPinModeOptions" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,3003);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioPinModeOptions</a> pairs</p></div>
 </div>
 
-<a name="GpioFeatureBehaviors"></a><a name="Topic2457"></a><div class="CTopic TType LC">
+<a name="GpioFeatureBehaviors"></a><a name="Topic3005"></a><div class="CTopic TType LC">
  <div class="CTitle">GpioFeatureBehaviors</div>
- <div class="CBody"><p>A map of <a href="../../index.html#CClass:GpioConfiguration:Feature" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2414);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration::Feature</a>, <a href="../../index.html#CClass:GpioConfiguration:GpioBehaviorModes" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2456);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioBehaviorModes</a> pairs</p></div>
+ <div class="CBody"><p>A map of <a href="../../index.html#CClass:GpioConfiguration:Feature" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2962);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioConfiguration::Feature</a>, <a href="../../index.html#CClass:GpioConfiguration:GpioBehaviorModes" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,3004);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioBehaviorModes</a> pairs</p></div>
 </div>
 
-<a name="GpioPinOptions"></a><a name="Topic2458"></a><div class="CTopic TType LC">
+<a name="GpioPinOptions"></a><a name="Topic3006"></a><div class="CTopic TType LC">
  <div class="CTitle">GpioPinOptions</div>
- <div class="CBody"><p>A map of uint <a href="../../index.html#CClass:GpioConfiguration:GpioPinId" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2454);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioPinId</a>, <a href="../../index.html#CClass:GpioConfiguration:GpioFeatureBehaviors" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,2457);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioFeatureBehaviors</a> pairs</p></div>
+ <div class="CBody"><p>A map of uint <a href="../../index.html#CClass:GpioConfiguration:GpioPinId" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,3002);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioPinId</a>, <a href="../../index.html#CClass:GpioConfiguration:GpioFeatureBehaviors" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,3005);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >GpioFeatureBehaviors</a> pairs</p></div>
 </div>
 
-<a name="EventControlMode"></a><a name="Topic2459"></a><div class="CTopic TEnumeration LC last">
+<a name="EventControlMode"></a><a name="Topic3007"></a><div class="CTopic TEnumeration LC last">
  <div class="CTitle">EventControlMode</div>
  <div class="CBody"><p>Event control modes DISABLED&nbsp; - 0x00 - Trigger is disabled ENABLED&nbsp; - 0x01 - Trigger is enabled TEST&nbsp; - 0x02 - Force the trigger into the active state TEST_PULSE - 0x03 - Force the trigger into the active state for one event cycle</p></div>
 </div>

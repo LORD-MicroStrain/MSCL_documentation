@@ -8,68 +8,68 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="Topic4878"></a><div class="CTopic TStruct LC first">
+<a name="Topic4926"></a><div class="CTopic TStruct LC first">
  <div class="CTitle">ContinuousBIT_System_General</div>
  <div class="CBody"><p>Continuous Built-In Test flags for general system information</p><p>Bits 0-7 of the original 128 bit Continuous Built-In Test flags</p></div>
 </div>
 
-<a name="Constants"></a><a name="Topic4879"></a><div class="CTopic TGroup LC">
+<a name="Constants"></a><a name="Topic4927"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Constants</div>
 </div>
 
-<a name="Bitmasks"></a><a name="Topic4880"></a><div class="CTopic TConstant LC">
+<a name="Bitmasks"></a><a name="Topic4928"></a><div class="CTopic TConstant LC">
  <div class="CTitle">Bitmasks</div>
- <div class="CBody"><p>Bitmasks for general system flags</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="SYSTEM_CLOCK_FAILURE"></a><a name="Topic4881"></a>SYSTEM_CLOCK_FAILURE</td><td class="CDLDefinition"><p>0x01 - The system clock is not operating properly</p></td></tr><tr><td class="CDLEntry"><a name="POWER_FAULT"></a><a name="Topic4882"></a>POWER_FAULT</td><td class="CDLDefinition"><p>0x02 - Power supply voltage is outside the recommended range, or an internal power fault exists</p></td></tr><tr><td class="CDLEntry"><a name="FIRMWARE_FAULT"></a><a name="Topic4883"></a>FIRMWARE_FAULT</td><td class="CDLDefinition"><p>0x10 - System firmware has detected an unexpected or abnormal condition</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERLOAD"></a><a name="Topic4884"></a>TIMING_OVERLOAD</td><td class="CDLDefinition"><p>0x20 - The system is unable to keep up with the processing demand</p></td></tr><tr><td class="CDLEntry"><a name="BUFFER_OVERRUN"></a><a name="Topic4885"></a>BUFFER_OVERRUN</td><td class="CDLDefinition"><p>0x40 - A data buffer in the system has reached its capacity</p></td></tr></table></div>
+ <div class="CBody"><p>Bitmasks for general system flags</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="SYSTEM_CLOCK_FAILURE"></a><a name="Topic4929"></a>SYSTEM_CLOCK_FAILURE</td><td class="CDLDefinition"><p>0x01 - The system clock is not operating properly</p></td></tr><tr><td class="CDLEntry"><a name="POWER_FAULT"></a><a name="Topic4930"></a>POWER_FAULT</td><td class="CDLDefinition"><p>0x02 - Power supply voltage is outside the recommended range, or an internal power fault exists</p></td></tr><tr><td class="CDLEntry"><a name="FIRMWARE_FAULT"></a><a name="Topic4931"></a>FIRMWARE_FAULT</td><td class="CDLDefinition"><p>0x10 - System firmware has detected an unexpected or abnormal condition</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERLOAD"></a><a name="Topic4932"></a>TIMING_OVERLOAD</td><td class="CDLDefinition"><p>0x20 - The system is unable to keep up with the processing demand</p></td></tr><tr><td class="CDLEntry"><a name="BUFFER_OVERRUN"></a><a name="Topic4933"></a>BUFFER_OVERRUN</td><td class="CDLDefinition"><p>0x40 - A data buffer in the system has reached its capacity</p></td></tr></table></div>
 </div>
 
-<a name="Functions"></a><a name="Topic4886"></a><div class="CTopic TGroup LC">
+<a name="Functions"></a><a name="Topic4934"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="flags"></a><a name="Topic4887"></a><div class="CTopic TFunction LC">
+<a name="flags"></a><a name="Topic4935"></a><div class="CTopic TFunction LC">
  <div class="CTitle">flags</div>
- <div id="NDPrototype4887" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4935" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the general system flags (bits 0-7)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">uint8</td><td class="CDLDefinition"><p>Value of the general system flags</p></td></tr></table></div>
 </div>
 
-<a name="systemClockFailure"></a><a name="Topic4888"></a><div class="CTopic TFunction LC">
+<a name="systemClockFailure"></a><a name="Topic4936"></a><div class="CTopic TFunction LC">
  <div class="CTitle">systemClockFailure</div>
- <div id="NDPrototype4888" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> systemClockFailure() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4936" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> systemClockFailure() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the System Clock Failure bit (bit 0)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: The system clock is not operating properly</p></td></tr></table></div>
 </div>
 
-<a name="powerFault"></a><a name="Topic4889"></a><div class="CTopic TFunction LC">
+<a name="powerFault"></a><a name="Topic4937"></a><div class="CTopic TFunction LC">
  <div class="CTitle">powerFault</div>
- <div id="NDPrototype4889" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> powerFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4937" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> powerFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Power Fault bit (bit 1)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: Power supply voltage is outside the recommended range, or an internal power fault exists</p></td></tr></table></div>
 </div>
 
-<a name="firmwareFault"></a><a name="Topic4890"></a><div class="CTopic TFunction LC">
+<a name="firmwareFault"></a><a name="Topic4938"></a><div class="CTopic TFunction LC">
  <div class="CTitle">firmwareFault</div>
- <div id="NDPrototype4890" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> firmwareFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4938" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> firmwareFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Firmware Fault bit (bit 4)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: System firmware has detected an unexpected or abnormal condition</p></td></tr></table></div>
 </div>
 
-<a name="timingOverload"></a><a name="Topic4891"></a><div class="CTopic TFunction LC">
+<a name="timingOverload"></a><a name="Topic4939"></a><div class="CTopic TFunction LC">
  <div class="CTitle">timingOverload</div>
- <div id="NDPrototype4891" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverload() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4939" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverload() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Timing Overload bit (bit 5)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: The system is unable to keep up with the processing demand</p></td></tr></table></div>
 </div>
 
-<a name="bufferOverrun"></a><a name="Topic4892"></a><div class="CTopic TFunction LC">
+<a name="bufferOverrun"></a><a name="Topic4940"></a><div class="CTopic TFunction LC">
  <div class="CTitle">bufferOverrun</div>
- <div id="NDPrototype4892" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> bufferOverrun() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4940" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> bufferOverrun() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Buffer Overrun bit (bit 6)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A data buffer in the system has reached its capacity</p></td></tr></table></div>
 </div>
 
-<a name="ContinuousBIT_System_General"></a><a name="Topic4893"></a><div class="CTopic TFunction LC">
+<a name="ContinuousBIT_System_General"></a><a name="Topic4941"></a><div class="CTopic TFunction LC">
  <div class="CTitle">ContinuousBIT_System_General</div>
- <div id="NDPrototype4893" class="NDPrototype NoParameterForm">ContinuousBIT_System_General() = default</div>
+ <div id="NDPrototype4941" class="NDPrototype NoParameterForm">ContinuousBIT_System_General() = default</div>
 </div>
 
-<a name="ContinuousBIT_System_General(2)"></a><a name="Topic4894"></a><div class="CTopic TFunction LC last">
+<a name="ContinuousBIT_System_General(2)"></a><a name="Topic4942"></a><div class="CTopic TFunction LC last">
  <div class="CTitle">ContinuousBIT_System_General</div>
- <div id="NDPrototype4894" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">explicit</span> ContinuousBIT_System_General(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PModifierQualifier first"><span class="SHKeyword">const</span>&nbsp;</td><td class="PType"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName last">bits</td></tr></table></td><td class="PAfterParameters">) : <a href="../../index.html#CClass:Bitfield" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,10007);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Bitfield</a>(static_cast&lt;<span class="SHKeyword">uint64</span>&gt;(bits))</td></tr></table></div>
+ <div id="NDPrototype4942" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">explicit</span> ContinuousBIT_System_General(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PModifierQualifier first"><span class="SHKeyword">const</span>&nbsp;</td><td class="PType"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName last">bits</td></tr></table></td><td class="PAfterParameters">) : <a href="../../index.html#CClass:Bitfield" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,10061);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Bitfield</a>(static_cast&lt;<span class="SHKeyword">uint64</span>&gt;(bits))</td></tr></table></div>
  <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">bits<div class="CDLParameterType"><span class="SHKeyword">const</span> <span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>Bits 0-7 of the original 128 bit Continuous Built-In Test flags</p></td></tr></table></div>
 </div>
 
