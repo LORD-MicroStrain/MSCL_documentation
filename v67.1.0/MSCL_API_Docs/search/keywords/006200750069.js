@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("bui",["Variable","Function"],[["buildCmdFailed",,[["MipCommandBytes",,,,0,"File:MicroStrain/MIP/MipTypes.h:MipCommandBytes.buildCmdFailed","CClass:MipCommandBytes:buildCmdFailed"]]],["builtInTestResult",,[["NodeDiscovery",,,,1,"File:MicroStrain/Wireless/NodeDiscovery.h:NodeDiscovery.builtInTestResult","CClass:NodeDiscovery:builtInTestResult"]]]]);

@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:RadioFeatures","RadioFeatures");NDSummary.OnSummaryLoaded("CClass:RadioFeatures",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[4176,0,0,"RadioFeatures"],[4177,0,1,"RadioFeatures","RadioFeatures"],[4178,0,1,"extendedRange","extendedRange"]]);

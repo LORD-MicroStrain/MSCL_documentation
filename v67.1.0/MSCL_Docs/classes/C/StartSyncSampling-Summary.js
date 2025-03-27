@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:StartSyncSampling","StartSyncSampling");NDSummary.OnSummaryLoaded("CClass:StartSyncSampling",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[4851,0,0,"StartSyncSampling"],[4852,0,2,"Functions","Functions"],[4853,0,1,"buildCommand","buildCommand"]]);
