@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:Poll","Poll");NDSummary.OnSummaryLoaded("CClass:Poll",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[6937,0,0,"Poll"],[6938,0,2,"Functions","Functions"],[6939,0,1,"buildCommand","buildCommand"]]);
+NDFramePage.OnPageTitleLoaded("CClass:Poll","Poll");NDSummary.OnSummaryLoaded("CClass:Poll",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[5496,0,0,"Poll"],[5497,0,2,"Functions","Functions"],[5498,0,1,"buildCommand","buildCommand"]]);
