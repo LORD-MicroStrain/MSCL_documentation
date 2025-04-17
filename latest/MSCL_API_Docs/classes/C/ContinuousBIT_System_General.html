@@ -8,49 +8,49 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="Topic2326"></a><div class="CTopic TStruct LC first">
+<a name="Topic2310"></a><div class="CTopic TStruct LC first">
  <div class="CTitle">ContinuousBIT_System_General</div>
  <div class="CBody"><p>Continuous Built-In Test flags for general system information</p><p>Bits 0-7 of the original 128 bit Continuous Built-In Test flags</p></div>
 </div>
 
-<a name="Bitmasks"></a><a name="Topic2327"></a><div class="CTopic TConstant LC">
+<a name="Bitmasks"></a><a name="Topic2311"></a><div class="CTopic TConstant LC">
  <div class="CTitle">Bitmasks</div>
- <div class="CBody"><p>Bitmasks for general system flags</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="SYSTEM_CLOCK_FAILURE"></a><a name="Topic2328"></a>SYSTEM_CLOCK_FAILURE</td><td class="CDLDefinition"><p>0x01 - The system clock is not operating properly</p></td></tr><tr><td class="CDLEntry"><a name="POWER_FAULT"></a><a name="Topic2329"></a>POWER_FAULT</td><td class="CDLDefinition"><p>0x02 - Power supply voltage is outside the recommended range, or an internal power fault exists</p></td></tr><tr><td class="CDLEntry"><a name="FIRMWARE_FAULT"></a><a name="Topic2330"></a>FIRMWARE_FAULT</td><td class="CDLDefinition"><p>0x10 - System firmware has detected an unexpected or abnormal condition</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERLOAD"></a><a name="Topic2331"></a>TIMING_OVERLOAD</td><td class="CDLDefinition"><p>0x20 - The system is unable to keep up with the processing demand</p></td></tr><tr><td class="CDLEntry"><a name="BUFFER_OVERRUN"></a><a name="Topic2332"></a>BUFFER_OVERRUN</td><td class="CDLDefinition"><p>0x40 - A data buffer in the system has reached its capacity</p></td></tr></table></div>
+ <div class="CBody"><p>Bitmasks for general system flags</p><table class="CDefinitionList"><tr><td class="CDLEntry"><a name="SYSTEM_CLOCK_FAILURE"></a><a name="Topic2312"></a>SYSTEM_CLOCK_FAILURE</td><td class="CDLDefinition"><p>0x01 - The system clock is not operating properly</p></td></tr><tr><td class="CDLEntry"><a name="POWER_FAULT"></a><a name="Topic2313"></a>POWER_FAULT</td><td class="CDLDefinition"><p>0x02 - Power supply voltage is outside the recommended range, or an internal power fault exists</p></td></tr><tr><td class="CDLEntry"><a name="FIRMWARE_FAULT"></a><a name="Topic2314"></a>FIRMWARE_FAULT</td><td class="CDLDefinition"><p>0x10 - System firmware has detected an unexpected or abnormal condition</p></td></tr><tr><td class="CDLEntry"><a name="TIMING_OVERLOAD"></a><a name="Topic2315"></a>TIMING_OVERLOAD</td><td class="CDLDefinition"><p>0x20 - The system is unable to keep up with the processing demand</p></td></tr><tr><td class="CDLEntry"><a name="BUFFER_OVERRUN"></a><a name="Topic2316"></a>BUFFER_OVERRUN</td><td class="CDLDefinition"><p>0x40 - A data buffer in the system has reached its capacity</p></td></tr></table></div>
 </div>
 
-<a name="flags"></a><a name="Topic2333"></a><div class="CTopic TFunction LC">
+<a name="flags"></a><a name="Topic2317"></a><div class="CTopic TFunction LC">
  <div class="CTitle">flags</div>
- <div id="NDPrototype2333" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2317" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> flags() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the general system flags (bits 0-7)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">uint8</td><td class="CDLDefinition"><p>Value of the general system flags</p></td></tr></table></div>
 </div>
 
-<a name="systemClockFailure"></a><a name="Topic2334"></a><div class="CTopic TFunction LC">
+<a name="systemClockFailure"></a><a name="Topic2318"></a><div class="CTopic TFunction LC">
  <div class="CTitle">systemClockFailure</div>
- <div id="NDPrototype2334" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> systemClockFailure() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2318" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> systemClockFailure() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the System Clock Failure bit (bit 0)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: The system clock is not operating properly</p></td></tr></table></div>
 </div>
 
-<a name="powerFault"></a><a name="Topic2335"></a><div class="CTopic TFunction LC">
+<a name="powerFault"></a><a name="Topic2319"></a><div class="CTopic TFunction LC">
  <div class="CTitle">powerFault</div>
- <div id="NDPrototype2335" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> powerFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2319" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> powerFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Power Fault bit (bit 1)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: Power supply voltage is outside the recommended range, or an internal power fault exists</p></td></tr></table></div>
 </div>
 
-<a name="firmwareFault"></a><a name="Topic2336"></a><div class="CTopic TFunction LC">
+<a name="firmwareFault"></a><a name="Topic2320"></a><div class="CTopic TFunction LC">
  <div class="CTitle">firmwareFault</div>
- <div id="NDPrototype2336" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> firmwareFault() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2320" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> firmwareFault() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Firmware Fault bit (bit 4)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: System firmware has detected an unexpected or abnormal condition</p></td></tr></table></div>
 </div>
 
-<a name="timingOverload"></a><a name="Topic2337"></a><div class="CTopic TFunction LC">
+<a name="timingOverload"></a><a name="Topic2321"></a><div class="CTopic TFunction LC">
  <div class="CTitle">timingOverload</div>
- <div id="NDPrototype2337" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverload() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2321" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> timingOverload() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Timing Overload bit (bit 5)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: The system is unable to keep up with the processing demand</p></td></tr></table></div>
 </div>
 
-<a name="bufferOverrun"></a><a name="Topic2338"></a><div class="CTopic TFunction LC last">
+<a name="bufferOverrun"></a><a name="Topic2322"></a><div class="CTopic TFunction LC last">
  <div class="CTitle">bufferOverrun</div>
- <div id="NDPrototype2338" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> bufferOverrun() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype2322" class="NDPrototype NoParameterForm"><span class="SHKeyword">bool</span> bufferOverrun() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Gets the value of the Buffer Overrun bit (bit 6)</p><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">bool</td><td class="CDLDefinition"><p>true: A data buffer in the system has reached its capacity</p></td></tr></table></div>
 </div>
 
