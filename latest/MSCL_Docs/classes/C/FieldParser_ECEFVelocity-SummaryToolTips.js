@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("CClass:FieldParser_EcefVelocity",{1368:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1368\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">FieldParser_EcefVelocity</div></div></div><div class=\"TTSummary\">The field parser for ECEF Velocity data</div></div>"});
