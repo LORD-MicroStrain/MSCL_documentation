@@ -8,83 +8,83 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="Topic4382"></a><div class="CTopic TStruct LC first">
+<a name="Topic4612"></a><div class="CTopic TStruct LC first">
  <div class="CTitle">DeviceCommPort</div>
  <div class="CBody"><p>Stores info related to device comm ports (id, type)</p></div>
 </div>
 
-<a name="Types"></a><a name="Topic4383"></a><div class="CTopic TGroup LC">
+<a name="Types"></a><a name="Topic4613"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Types</div>
 </div>
 
-<a name="Type"></a><a name="Topic4384"></a><div class="CTopic TEnumeration LC">
+<a name="Type"></a><a name="Topic4614"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">Type</div>
  <div class="CBody"><p>Available comm port type definitions SPECIAL - 0x00 - Device specific ports (Main/Aux) UART&nbsp; - 0x01 - UART related ports USB&nbsp; - 0x02 - USB related ports</p></div>
 </div>
 
-<a name="InterfaceId"></a><a name="Topic4385"></a><div class="CTopic TEnumeration LC">
+<a name="InterfaceId"></a><a name="Topic4615"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">InterfaceId</div>
  <div class="CBody"><p>Common predefined interface IDs ALL&nbsp; - 0x00 - All available interfaces (Special type 0, ID 0) MAIN&nbsp; - 0x01 - Main USB or UART (Special type 0, ID 1) AUX&nbsp; - 0x02 - Aux USB or UART (Special type 0, ID 2) UART1&nbsp; - 0x11 - First UART port (UART type 1, ID 1) UART2&nbsp; - 0x12 - Second UART port (UART type 1, ID 2) UART3&nbsp; - 0x13 - Third UART port (UART type 1, ID 3) USB1&nbsp; - 0x21 - First USB port (USB type 2, ID 1) USB2&nbsp; - 0x22 - Second USB port (USB type 2, ID 2)</p></div>
 </div>
 
-<a name="Protocol"></a><a name="Topic4386"></a><div class="CTopic TEnumeration LC">
+<a name="Protocol"></a><a name="Topic4616"></a><div class="CTopic TEnumeration LC">
  <div class="CTitle">Protocol</div>
  <div class="CBody"><p>Available comm protocols that can be configured for UART ports NONE&nbsp; - 0x00000000 - Not set MIP_COMMANDS - 0x00000001 - MIP commands MIP_DATA&nbsp; - 0x00000002 - MIP data NMEA&nbsp; - 0x00000004 - NMEA RTCM&nbsp; - 0x00000008 - RTCM SPARTN&nbsp; - 0x00000010 - SPARTN ALL&nbsp; - 0x0000001F - All protocols</p></div>
 </div>
 
-<a name="Functions"></a><a name="Topic4387"></a><div class="CTopic TGroup LC">
+<a name="Functions"></a><a name="Topic4617"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="DeviceCommPort"></a><a name="Topic4388"></a><div class="CTopic TFunction LC">
+<a name="DeviceCommPort"></a><a name="Topic4618"></a><div class="CTopic TFunction LC">
  <div class="CTitle">DeviceCommPort</div>
- <div id="NDPrototype4388" class="NDPrototype NoParameterForm">DeviceCommPort() = default</div>
+ <div id="NDPrototype4618" class="NDPrototype NoParameterForm">DeviceCommPort() = default</div>
  <div class="CBody"><p>Constructs DeviceCommPort object with default values</p></div>
 </div>
 
-<a name="DeviceCommPort(2)"></a><a name="Topic4389"></a><div class="CTopic TFunction LC">
+<a name="DeviceCommPort(2)"></a><a name="Topic4619"></a><div class="CTopic TFunction LC">
  <div class="CTitle">DeviceCommPort</div>
- <div id="NDPrototype4389" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">DeviceCommPort(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Type" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4384);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Type</a>&nbsp;</td><td class="PName">portType,</td><td></td><td class="last"></td></tr><tr><td class="PType first"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName">portId,</td><td></td><td class="last"></td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portInputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE,</td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portOutputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE</td></tr></table></td><td class="PAfterParameters">) : type(portType), id(portId), inputProtocols(portInputProtocols), outputProtocols(portOutputProtocols)</td></tr></table></div>
- <div class="CBody"><p>Constructs DeviceCommPort object with specified values</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">portType<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Type" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4384);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Type</a></div></td><td class="CDLDefinition"><p>Type of port being configured</p></td></tr><tr><td class="CDLEntry">portId<div class="CDLParameterType"><span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>The ID of the port to configure</p></td></tr><tr><td class="CDLEntry">portInputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The input protocols accepted by the port</p></td></tr><tr><td class="CDLEntry">portOutputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The output protocols transmitted from the port</p></td></tr></table></div>
+ <div id="NDPrototype4619" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">DeviceCommPort(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Type" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4614);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Type</a>&nbsp;</td><td class="PName">portType,</td><td></td><td class="last"></td></tr><tr><td class="PType first"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName">portId,</td><td></td><td class="last"></td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portInputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE,</td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portOutputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE</td></tr></table></td><td class="PAfterParameters">) : type(portType), id(portId), inputProtocols(portInputProtocols), outputProtocols(portOutputProtocols)</td></tr></table></div>
+ <div class="CBody"><p>Constructs DeviceCommPort object with specified values</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">portType<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Type" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4614);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Type</a></div></td><td class="CDLDefinition"><p>Type of port being configured</p></td></tr><tr><td class="CDLEntry">portId<div class="CDLParameterType"><span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>The ID of the port to configure</p></td></tr><tr><td class="CDLEntry">portInputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The input protocols accepted by the port</p></td></tr><tr><td class="CDLEntry">portOutputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The output protocols transmitted from the port</p></td></tr></table></div>
 </div>
 
-<a name="DeviceCommPort(3)"></a><a name="Topic4390"></a><div class="CTopic TFunction LC">
+<a name="DeviceCommPort(3)"></a><a name="Topic4620"></a><div class="CTopic TFunction LC">
  <div class="CTitle">DeviceCommPort</div>
- <div id="NDPrototype4390" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">DeviceCommPort(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName">portInterface,</td><td></td><td class="last"></td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portInputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE,</td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portOutputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE</td></tr></table></td><td class="PAfterParameters">) : type(static_cast&lt;Type&gt;((portInterface &amp; <span class="SHNumber">0xF0</span>) &gt;&gt; <span class="SHNumber">4</span>)), id(portInterface &amp; <span class="SHNumber">0xF</span>), inputProtocols(portInputProtocols), outputProtocols(portOutputProtocols)</td></tr></table></div>
- <div class="CBody"><p>Constructs DeviceCommPort object with specified values The ID and Type are determined by the interface value. I.E. Interface 0x12 == Type 1 &amp;&amp; ID 2</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">portInterface<div class="CDLParameterType"><span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>A combination of the port type and ID</p></td></tr><tr><td class="CDLEntry">portInputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The input protocols accepted by the port</p></td></tr><tr><td class="CDLEntry">portOutputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The output protocols transmitted from the port</p></td></tr></table></div>
+ <div id="NDPrototype4620" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">DeviceCommPort(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">uint8</span>&nbsp;</td><td class="PName">portInterface,</td><td></td><td class="last"></td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portInputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE,</td></tr><tr><td class="PType first"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a>&nbsp;</td><td class="PName">portOutputProtocols&nbsp;</td><td class="PDefaultValueSeparator">=&nbsp;</td><td class="PDefaultValue last">NONE</td></tr></table></td><td class="PAfterParameters">) : type(static_cast&lt;Type&gt;((portInterface &amp; <span class="SHNumber">0xF0</span>) &gt;&gt; <span class="SHNumber">4</span>)), id(portInterface &amp; <span class="SHNumber">0xF</span>), inputProtocols(portInputProtocols), outputProtocols(portOutputProtocols)</td></tr></table></div>
+ <div class="CBody"><p>Constructs DeviceCommPort object with specified values The ID and Type are determined by the interface value. I.E. Interface 0x12 == Type 1 &amp;&amp; ID 2</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">portInterface<div class="CDLParameterType"><span class="SHKeyword">uint8</span></div></td><td class="CDLDefinition"><p>A combination of the port type and ID</p></td></tr><tr><td class="CDLEntry">portInputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The input protocols accepted by the port</p></td></tr><tr><td class="CDLEntry">portOutputProtocols<div class="CDLParameterType"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a></div></td><td class="CDLDefinition"><p>The output protocols transmitted from the port</p></td></tr></table></div>
 </div>
 
-<a name="interfaceId"></a><a name="Topic4391"></a><div class="CTopic TFunction LC">
+<a name="interfaceId"></a><a name="Topic4621"></a><div class="CTopic TFunction LC">
  <div class="CTitle">interfaceId</div>
- <div id="NDPrototype4391" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> interfaceId() <span class="SHKeyword">const</span></div>
+ <div id="NDPrototype4621" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> interfaceId() <span class="SHKeyword">const</span></div>
  <div class="CBody"><p>Get the interface ID of the port This is a combined value of the type and port ID</p></div>
 </div>
 
-<a name="Variables"></a><a name="Topic4392"></a><div class="CTopic TGroup LC">
+<a name="Variables"></a><a name="Topic4622"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Variables</div>
 </div>
 
-<a name="type"></a><a name="Topic4393"></a><div class="CTopic TVariable LC">
+<a name="type"></a><a name="Topic4623"></a><div class="CTopic TVariable LC">
  <div class="CTitle">type</div>
- <div id="NDPrototype4393" class="NDPrototype NoParameterForm"><a href="../../index.html#CClass:DeviceCommPort:Type" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4384);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Type</a> type</div>
+ <div id="NDPrototype4623" class="NDPrototype NoParameterForm"><a href="../../index.html#CClass:DeviceCommPort:Type" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4614);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Type</a> type</div>
  <div class="CBody"><p>Port type (special, UART, etc.)</p></div>
 </div>
 
-<a name="id"></a><a name="Topic4394"></a><div class="CTopic TVariable LC">
+<a name="id"></a><a name="Topic4624"></a><div class="CTopic TVariable LC">
  <div class="CTitle">id</div>
- <div id="NDPrototype4394" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> id</div>
+ <div id="NDPrototype4624" class="NDPrototype NoParameterForm"><span class="SHKeyword">uint8</span> id</div>
  <div class="CBody"><p>Port ID</p></div>
 </div>
 
-<a name="protocol"></a><a name="Topic4395"></a><div class="CTopic TVariable LC">
+<a name="protocol"></a><a name="Topic4625"></a><div class="CTopic TVariable LC">
  <div class="CTitle">protocol</div>
- <div id="NDPrototype4395" class="NDPrototype NoParameterForm"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a> inputProtocols</div>
+ <div id="NDPrototype4625" class="NDPrototype NoParameterForm"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a> inputProtocols</div>
  <div class="CBody"><p>Input communication protocols</p></div>
 </div>
 
-<a name="protocol(2)"></a><a name="Topic4396"></a><div class="CTopic TVariable LC last">
+<a name="protocol(2)"></a><a name="Topic4626"></a><div class="CTopic TVariable LC last">
  <div class="CTitle">protocol</div>
- <div id="NDPrototype4396" class="NDPrototype NoParameterForm"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4386);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a> outputProtocols</div>
+ <div id="NDPrototype4626" class="NDPrototype NoParameterForm"><a href="../../index.html#CClass:DeviceCommPort:Protocol" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4616);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Protocol</a> outputProtocols</div>
  <div class="CBody"><p>Output communication protocols</p></div>
 </div>
 

@@ -1,1 +1,1 @@
-NDFramePage.OnPageTitleLoaded("CClass:simple_any","simple_any");NDSummary.OnSummaryLoaded("CClass:simple_any",[["C/C++","C"]],[["Classes","Class"]],[[10443,0,0,"simple_any"]]);
+NDFramePage.OnPageTitleLoaded("CClass:simple_any","simple_any");NDSummary.OnSummaryLoaded("CClass:simple_any",[["C/C++","C"]],[["Classes","Class"]],[[10463,0,0,"simple_any"]]);
