@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:ActivationCode","ActivationCode");NDSummary.OnSummaryLoaded("CClass:ActivationCode",[["C/C++","C"]],[["Classes","Class"],["Constants","Constant"],["Groups","Group"]],[[4698,0,0,"ActivationCode"],[4699,0,2,"Constants","Constants"],[4700,0,1,"Packet Bytes","Packet_Bytes"],[4701,0,1,,"FIELD_DATA_BYTE"]]);

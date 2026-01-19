@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dup",["Type"],[["DuplicateCheckMap",,[["WirelessParser",,,,0,"File:mscl/MicroStrain/Wireless/WirelessParser.h:WirelessParser.DuplicateCheckMap","CClass:WirelessParser:DuplicateCheckMap"]]]]);

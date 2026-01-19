@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("~ve",["Function"],[["~Vec3f",,[["Vec3f",,,,0,"File:mscl/MicroStrain/Inertial/PositionVelocity.h:Vec3f.~Vec3f","CClass:Vec3f:~Vec3f"]]]]);

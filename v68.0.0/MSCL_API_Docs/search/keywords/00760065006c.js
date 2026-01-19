@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vel",["Class","Function"],[["Velocity",,[[,,,,0,"File:mscl/MicroStrain/Inertial/PositionVelocity.h:Velocity","CClass:Velocity"],["AidingMeasurementVelocity","velocity",,,1,"File:mscl/MicroStrain/MIP/MipTypes.h:AidingMeasurementVelocity.velocity","CClass:AidingMeasurementVelocity:velocity"]]]]);

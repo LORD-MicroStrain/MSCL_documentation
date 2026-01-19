@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("m_t",["Variable"],[["m_type",,[["GnssSpartnConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GnssSpartnConfiguration.m_type","CClass:GnssSpartnConfiguration:m_type"]]]]);

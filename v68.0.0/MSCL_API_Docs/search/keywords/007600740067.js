@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vtg",["Enumeration"],[["VTG",,[["NmeaMessageFormat",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.VTG","CClass:NmeaMessageFormat:VTG"]]]]);

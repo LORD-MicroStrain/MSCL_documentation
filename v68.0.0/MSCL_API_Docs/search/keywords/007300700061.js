@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spa",["Enumeration"],[["SpaceVehicleFlags",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:SpaceVehicleFlags"]]]]);

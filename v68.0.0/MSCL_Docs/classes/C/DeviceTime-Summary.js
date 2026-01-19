@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:DeviceTime","DeviceTime");NDSummary.OnSummaryLoaded("CClass:DeviceTime",[["C/C++","C"]],[["Classes","Class"],["Constants","Constant"],["Groups","Group"]],[[344,0,0,"DeviceTime"],[345,0,2,"Constants","Constants"],[346,0,1,"Packet Bytes","Packet_Bytes"],[347,0,1,,"FIELD_DATA_BYTE"]]);

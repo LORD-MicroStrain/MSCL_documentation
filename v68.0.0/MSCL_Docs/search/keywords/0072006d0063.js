@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rmc",["Constant"],[["RMC",,[["NmeaMessageFormat",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.RMC","CClass:NmeaMessageFormat:RMC"]]]]);

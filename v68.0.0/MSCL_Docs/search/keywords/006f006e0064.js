@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ond",["Function"],[["onDataPacketAdded",,[["MipNode_Impl",,,,0,"File:mscl/MicroStrain/MIP/MipNode_Impl.h:MipNode_Impl.onDataPacketAdded","CClass:MipNode_Impl:onDataPacketAdded"]]],["onDeviceAdded",,[["WsdaFinder",,,,0,"File:mscl/Communication/WsdaFinder.h:WsdaFinder.onDeviceAdded","CClass:WsdaFinder:onDeviceAdded"]]]]);

@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({10197:"<div class=\"NDToolTip TType LC\"><div class=\"TTSummary\">typedef for a 2-byte unsigned integer.</div></div>"});

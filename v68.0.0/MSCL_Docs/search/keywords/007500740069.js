@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("uti",["Class"],[["Utils",,[[,,,,0,"File:mscl/Utils.h:Utils","CClass:Utils"]]],["Utils_Win32",,[[,,,,0,"File:mscl/Utils_Win32.h:Utils_Win32(2)","CClass:Utils_Win32"]]]]);

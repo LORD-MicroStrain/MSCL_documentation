@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gdo",["Constant"],[["GDOP_FLAG",,[["FieldParser_DOP",,,,0,"File:mscl/MicroStrain/Inertial/Packets/InertialFieldParser_GNSS.h:FieldParser_DOP.GDOP_FLAG","CClass:FieldParser_DOP:GDOP_FLAG"]]]]);

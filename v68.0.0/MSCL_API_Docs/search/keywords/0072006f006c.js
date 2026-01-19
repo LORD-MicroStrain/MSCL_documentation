@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rol",["Function"],[["roll",,[["EulerAngles",,,,0,"File:mscl/MicroStrain/Inertial/EulerAngles.h:EulerAngles.roll","CClass:EulerAngles:roll"]]]]);

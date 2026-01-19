@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mor",["Function"],[["moreSweeps",,[["AlgorithmMetaData",,,,0,"File:mscl/MicroStrain/Wireless/Packets/WirelessDataPacket.h:AlgorithmMetaData.moreSweeps","CClass:AlgorithmMetaData:moreSweeps"]]],["moreToRead",,[["DataBuffer",,,,0,"File:mscl/MicroStrain/DataBuffer.h:DataBuffer.moreToRead","CClass:DataBuffer:moreToRead"]]]]);

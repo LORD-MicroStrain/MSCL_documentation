@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("CClass:DeviceTime",{344:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype344\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">DeviceTime</div></div></div><div class=\"TTSummary\">Contains the logic for the DeviceTime command.</div></div>"});

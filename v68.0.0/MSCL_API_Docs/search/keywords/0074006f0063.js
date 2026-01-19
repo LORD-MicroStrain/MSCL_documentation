@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("toc",["Function"],[["toCommandParameters",,[["NmeaMessageFormat",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.toCommandParameters","CClass:NmeaMessageFormat:toCommandParameters"]]]]);

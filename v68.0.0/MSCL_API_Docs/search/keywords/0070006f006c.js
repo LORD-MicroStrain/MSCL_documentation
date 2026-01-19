@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pol",["Function"],[["poll",,[["WirelessNode",,,,0,"File:mscl/MicroStrain/Wireless/WirelessNode.h:WirelessNode.poll","CClass:WirelessNode:poll"]]],["pollData",,[["InertialNode",,,,0,"File:mscl/MicroStrain/Inertial/InertialNode.h:InertialNode.pollData","CClass:InertialNode:pollData"]]]]);

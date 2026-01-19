@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dpa",["Constant"],[["DPAGE_SIZE",,[["NodeMemory_v1",,,,0,"File:mscl/MicroStrain/Wireless/NodeMemory_v1.h:NodeMemory_v1.DPAGE_SIZE","CClass:NodeMemory_v1:DPAGE_SIZE"]]]]);

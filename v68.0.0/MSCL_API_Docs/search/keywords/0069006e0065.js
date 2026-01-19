@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ine",["Class"],[["InertialNode",,[[,,,,0,"File:mscl/MicroStrain/Inertial/InertialNode.h:InertialNode","CClass:InertialNode"]]]]);

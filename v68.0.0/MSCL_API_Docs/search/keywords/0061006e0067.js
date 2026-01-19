@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ang",["Function"],[["angle",,[["StructuralHealth",,,,0,"File:mscl/MicroStrain/Wireless/StructuralHealth.h:StructuralHealth.angle","CClass:StructuralHealth:angle"]]]]);

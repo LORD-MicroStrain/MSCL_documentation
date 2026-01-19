@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:TareAxisValues","TareAxisValues");NDSummary.OnSummaryLoaded("CClass:TareAxisValues",[["C/C++","C"]],[["Structs","Struct"],["Variables","Variable"]],[[804,0,0,"TareAxisValues"],[805,0,1,"tareRollAxis","tareRollAxis"],[806,0,1,"tarePitchAxis","tarePitchAxis"],[807,0,1,"tareYawAxis","tareYawAxis"]]);

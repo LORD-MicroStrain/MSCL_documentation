@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("llh",["Function","Enumeration"],[["LLH",,[["Position",,,,0,"File:mscl/MicroStrain/Inertial/PositionVelocity.h:Position.LLH","CClass:Position:LLH"]]],["LLH_NED",,[["Vec3f",,,,1,"File:mscl/MicroStrain/Inertial/PositionVelocity.h:Vec3f.LLH_NED","CClass:Vec3f:LLH_NED"]]]]);

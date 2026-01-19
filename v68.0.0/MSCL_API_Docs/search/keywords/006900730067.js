@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isg",["Function"],[["isGnssChannelField",,[["MipTypes",,,,0,"File:mscl/MicroStrain/MIP/MipTypes.h:MipTypes.isGnssChannelField","CClass:MipTypes:isGnssChannelField"]]]]);

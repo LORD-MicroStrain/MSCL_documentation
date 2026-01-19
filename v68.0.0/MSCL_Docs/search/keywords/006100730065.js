@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ase",["Function"],[["asEulerAngles",,[["Rotation",,,,0,"File:mscl/MicroStrain/Inertial/EulerAngles.h:Rotation.asEulerAngles","CClass:Rotation:asEulerAngles"]]]]);

@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({1458:"<div class=\"NDToolTip TStruct LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1458\"><div class=\"CPEntry TStruct Current\"><div class=\"CPName\">Position</div></div></div><div class=\"TTSummary\">Defines a geographic position.</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("svf",["Constant"],[["SVFLAG_HEALTHY",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:SVFLAG_HEALTHY"]]],["SVFLAG_NAVIGATION",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:SVFLAG_NAVIGATION"]]]]);

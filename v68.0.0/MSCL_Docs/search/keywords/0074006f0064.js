@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tod",["Function"],[["toDataModeEnum",,[["DataModeMask",,,,0,"File:mscl/MicroStrain/Wireless/Configuration/DataModeMask.h:DataModeMask.toDataModeEnum","CClass:DataModeMask:toDataModeEnum"]]],["toDecimation",,[["SampleRate",,,,0,"File:mscl/MicroStrain/SampleRate.h:SampleRate.toDecimation","CClass:SampleRate:toDecimation"]]]]);

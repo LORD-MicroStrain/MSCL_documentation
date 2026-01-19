@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:TestNodeCommProtocol","TestNodeCommProtocol");NDSummary.OnSummaryLoaded("CClass:TestNodeCommProtocol",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[5358,0,0,"TestNodeCommProtocol"],[5359,0,2,"Functions","Functions"],[5360,0,1,"buildCommand","buildCommand"]]);

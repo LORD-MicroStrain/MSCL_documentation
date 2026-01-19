@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("can",["Function"],[["cancel",,[["SetToIdleStatus",,,,0,"File:mscl/MicroStrain/Wireless/Commands/SetToIdleStatus.h:SetToIdleStatus.cancel","CClass:SetToIdleStatus:cancel"]]]]);

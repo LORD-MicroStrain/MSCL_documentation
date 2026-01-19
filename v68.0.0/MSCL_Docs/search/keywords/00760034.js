@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("v4",["Constant"],[["V4",,[["WirelessTypes",,,,0,"File:mscl/MicroStrain/Wireless/WirelessTypes.h:WirelessTypes.V4","CClass:WirelessTypes:V4"]]]]);

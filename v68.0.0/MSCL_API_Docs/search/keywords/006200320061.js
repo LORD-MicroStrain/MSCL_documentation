@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("b2a",["Enumeration"],[["B2A",,[["GnssSignalConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.B2A","CClass:GnssSignalConfiguration:B2A"]]]]);

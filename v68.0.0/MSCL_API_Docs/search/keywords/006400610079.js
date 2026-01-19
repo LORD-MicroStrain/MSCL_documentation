@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("day",["Function"],[["Days",,[["TimeSpan",,,,0,"File:mscl/TimeSpan.h:TimeSpan.Days","CClass:TimeSpan:Days"]]]]);

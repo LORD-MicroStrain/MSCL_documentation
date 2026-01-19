@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sha",["Function"],[["shared",,[["MipDataPacket",,,,0,"File:mscl/MicroStrain/MIP/Packets/MipDataPacket.h:MipDataPacket.shared","CClass:MipDataPacket:shared"]]]]);

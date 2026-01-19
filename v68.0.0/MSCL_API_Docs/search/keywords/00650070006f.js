@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("epo",["Enumeration"],[["Epoch",,[["Timestamp",,,,0,"File:mscl/Timestamp.h:Timestamp.Epoch","CClass:Timestamp:Epoch"]]]]);

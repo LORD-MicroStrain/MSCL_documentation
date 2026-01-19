@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:NodeFeatures_torqueLink","NodeFeatures_torqueLink");NDSummary.OnSummaryLoaded("CClass:NodeFeatures_torqueLink",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[6963,0,0,"NodeFeatures_torqueLink"],[6964,0,2,"Functions","Functions"],[6965,0,1,"NodeFeatures_torqueLink","NodeFeatures_torqueLink"]]);

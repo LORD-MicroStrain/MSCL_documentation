@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wsd",["Class","Type"],[["WsdaFinder",,[[,,,,0,"File:mscl/Communication/WsdaFinder.h:WsdaFinder(2)","CClass:WsdaFinder"]]],["WsdaInfo",,[[,,,,0,"File:mscl/Communication/WsdaFinder.h:WsdaInfo","CClass:WsdaInfo"]]],["WsdaMap",,[["WsdaFinder",,,,1,"File:mscl/Communication/WsdaFinder.h:WsdaFinder.WsdaMap","CClass:WsdaFinder:WsdaMap"]]]]);

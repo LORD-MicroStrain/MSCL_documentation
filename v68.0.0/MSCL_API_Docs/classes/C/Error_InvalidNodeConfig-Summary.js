@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:Error_InvalidNodeConfig","Error_InvalidNodeConfig");NDSummary.OnSummaryLoaded("CClass:Error_InvalidNodeConfig",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[4698,0,0,"Error_InvalidNodeConfig"],[4699,0,1,"Error_InvalidNodeConfig","Error_InvalidNodeConfig"],[4700,0,1,"nodeAddress","nodeAddress"]]);

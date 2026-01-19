@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("-",["Operator"],[["-",,[["Timestamp",,,,0,"File:mscl/Timestamp.h:Timestamp.-","CClass:Timestamp:-"]]]]);

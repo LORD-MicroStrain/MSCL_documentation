@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lot",["Function"],[["lotNumber",,[["DisplacementNode",,,,0,"File:mscl/MicroStrain/Displacement/DisplacementNode.h:DisplacementNode.lotNumber","CClass:DisplacementNode:lotNumber"],["MipNode",,,,0,"File:mscl/MicroStrain/MIP/MipNode.h:MipNode.lotNumber","CClass:MipNode:lotNumber"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("~ti",["Function"],[["~TimeUpdate",,[["TimeUpdate",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:TimeUpdate.~TimeUpdate","CClass:TimeUpdate:~TimeUpdate"]]]]);

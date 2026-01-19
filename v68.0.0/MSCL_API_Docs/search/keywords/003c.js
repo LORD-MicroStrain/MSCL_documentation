@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("<",["Operator"],[["&lt;","<",[["BitMask",,,"<",0,"File:mscl/BitMask.h:BitMask.<","CClass:BitMask:<"],["ChannelMask",,,"<",0,"File:mscl/MicroStrain/Wireless/ChannelMask.h:ChannelMask.<","CClass:ChannelMask:<"]]]]);

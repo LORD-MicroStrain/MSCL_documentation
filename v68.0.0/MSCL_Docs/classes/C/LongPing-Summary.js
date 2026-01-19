@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:LongPing","LongPing");NDSummary.OnSummaryLoaded("CClass:LongPing",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[5548,0,0,"LongPing"],[5549,0,2,"Functions","Functions"],[5550,0,1,"buildCommand","buildCommand"]]);

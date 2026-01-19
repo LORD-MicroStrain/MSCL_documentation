@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("not",["Function"],[["notify",,[["TimedCondition",,,,0,"File:mscl/TimedCondition.h:TimedCondition.notify","CClass:TimedCondition:notify"]]]]);

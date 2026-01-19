@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("any",["Function"],[["anyTriggersEnabled",,[["EventTriggerOptions",,,,0,"File:mscl/MicroStrain/Wireless/Configuration/EventTriggerOptions.h:EventTriggerOptions.anyTriggersEnabled","CClass:EventTriggerOptions:anyTriggersEnabled"]]]]);

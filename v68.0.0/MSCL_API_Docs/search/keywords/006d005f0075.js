@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("m_u",["Variable"],[["m_unc",,[["OdometerConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:OdometerConfiguration.m_unc","CClass:OdometerConfiguration:m_unc"]]]]);

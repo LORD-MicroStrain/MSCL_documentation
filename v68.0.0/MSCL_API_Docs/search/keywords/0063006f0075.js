@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cou",["Function","Variable"],[["count",,[["Bin",,,,0,"File:mscl/Bin.h:Bin.count","CClass:Bin:count"],["ChannelMask",,,,0,"File:mscl/MicroStrain/Wireless/ChannelMask.h:ChannelMask.count","CClass:ChannelMask:count"],["PpsPulseInfo",,,,1,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:PpsPulseInfo.count","CClass:PpsPulseInfo:count"]]]]);

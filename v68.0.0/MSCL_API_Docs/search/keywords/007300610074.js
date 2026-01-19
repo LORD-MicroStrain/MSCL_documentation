@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sat",["Type","Variable"],[["SatellitePRNs",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:SatellitePRNs"],["SBASSettingsData",,,,1,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:SBASSettingsData.SatellitePRNs","CClass:SBASSettingsData:SatellitePRNs"]]]]);
