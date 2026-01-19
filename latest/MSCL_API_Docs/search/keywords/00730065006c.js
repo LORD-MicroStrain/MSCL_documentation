@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("sel",["Function"],[["select",,[["HeadingAlignmentMethod",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:HeadingAlignmentMethod.select","CClass:HeadingAlignmentMethod:select"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("sel",["Function"],[["select",,[["HeadingAlignmentMethod",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:HeadingAlignmentMethod.select","CClass:HeadingAlignmentMethod:select"]]]]);

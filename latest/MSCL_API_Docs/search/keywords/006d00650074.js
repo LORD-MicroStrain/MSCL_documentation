@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("met",["Function"],[["metaDataUpdated",,[["DatalogDownloader",,,,0,"File:MicroStrain/Wireless/DatalogDownloader.h:DatalogDownloader.metaDataUpdated","CClass:DatalogDownloader:metaDataUpdated"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("met",["Function"],[["metaDataUpdated",,[["DatalogDownloader",,,,0,"File:mscl/MicroStrain/Wireless/DatalogDownloader.h:DatalogDownloader.metaDataUpdated","CClass:DatalogDownloader:metaDataUpdated"]]]]);

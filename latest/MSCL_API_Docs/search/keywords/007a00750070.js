@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("zup",["Struct"],[["ZUPTSettingsData",,[[,,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:ZUPTSettingsData","CClass:ZUPTSettingsData"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("zup",["Struct"],[["ZUPTSettingsData",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:ZUPTSettingsData","CClass:ZUPTSettingsData"]]]]);

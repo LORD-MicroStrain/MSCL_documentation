@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/simple_any.h","simple_any.h");NDSummary.OnSummaryLoaded("File:mscl/simple_any.h",[["C/C++","C"]],[["Classes","Class"],["Files","File"],["Groups","Group"],["Sections","Section"]],[[10396,0,3,"simple_any","simple_any"],[10397,0,2,"Files","Files"],[10398,0,1,"simple_any.h","simple_any.h"],[10399,0,0,"simple_any","simple_any(2)"]]);

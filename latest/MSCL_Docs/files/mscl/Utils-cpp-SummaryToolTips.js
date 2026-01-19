@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:mscl/Utils.cpp",{10282:"<div class=\"NDToolTip TFunction LC\"><div id=\"NDPrototype10282\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">uint64</span> getCurrentSystemTime()</div></div><div class=\"TTSummary\">Gets the current system time in nanoseconds since unix epoch</div></div>"});

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("~wi",["Function"],[["~WirelessNode",,[["WirelessNode",,,,0,"File:MicroStrain/Wireless/WirelessNode.h:WirelessNode.~WirelessNode","CClass:WirelessNode:~WirelessNode"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("~wi",["Function"],[["~WirelessNode",,[["WirelessNode",,,,0,"File:mscl/MicroStrain/Wireless/WirelessNode.h:WirelessNode.~WirelessNode","CClass:WirelessNode:~WirelessNode"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("tdm",["Function"],[["tdmaAddress",,[["SyncNetworkInfo",,,,0,"File:MicroStrain/Wireless/SyncNetworkInfo.h:SyncNetworkInfo.tdmaAddress","CClass:SyncNetworkInfo:tdmaAddress"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("tdm",["Function"],[["tdmaAddress",,[["SyncNetworkInfo",,,,0,"File:mscl/MicroStrain/Wireless/SyncNetworkInfo.h:SyncNetworkInfo.tdmaAddress","CClass:SyncNetworkInfo:tdmaAddress"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("msc",["Variable"],[["MSCL_VERSION",,[[,,,,0,"File:LibVersion.h:MSCL_VERSION"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("msc",["Variable"],[["MSCL_VERSION",,[[,,,,0,"File:mscl/LibVersion.h:MSCL_VERSION"]]]]);

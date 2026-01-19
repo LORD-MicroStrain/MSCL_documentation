@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("upt",["Function"],[["uptime",,[["StructuralHealth",,,,0,"File:MicroStrain/Wireless/StructuralHealth.h:StructuralHealth.uptime","CClass:StructuralHealth:uptime"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("upt",["Function"],[["uptime",,[["StructuralHealth",,,,0,"File:mscl/MicroStrain/Wireless/StructuralHealth.h:StructuralHealth.uptime","CClass:StructuralHealth:uptime"]]]]);

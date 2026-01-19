@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("ses",["Function"],[["sessionIndex",,[["DatalogDownloader",,,,0,"File:MicroStrain/Wireless/DatalogDownloader.h:DatalogDownloader.sessionIndex","CClass:DatalogDownloader:sessionIndex"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ses",["Function"],[["sessionIndex",,[["DatalogDownloader",,,,0,"File:mscl/MicroStrain/Wireless/DatalogDownloader.h:DatalogDownloader.sessionIndex","CClass:DatalogDownloader:sessionIndex"]]]]);

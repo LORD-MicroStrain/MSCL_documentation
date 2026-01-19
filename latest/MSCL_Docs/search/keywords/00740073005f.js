@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("ts_",["Constant"],[["TS_FLAG",,[["FieldParser_GpsCorrelationTimestamp",,,,0,"File:MicroStrain/Inertial/Packets/InertialFieldParser_Sensor.h:FieldParser_GpsCorrelationTimestamp.TS_FLAG","CClass:FieldParser_GpsCorrelationTimestamp:TS_FLAG"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ts_",["Constant"],[["TS_FLAG",,[["FieldParser_GpsCorrelationTimestamp",,,,0,"File:mscl/MicroStrain/Inertial/Packets/InertialFieldParser_Sensor.h:FieldParser_GpsCorrelationTimestamp.TS_FLAG","CClass:FieldParser_GpsCorrelationTimestamp:TS_FLAG"]]]]);

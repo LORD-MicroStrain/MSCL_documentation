@@ -1,1 +1,1 @@
-NDSummary.OnToolTipsLoaded("CClass:EventTriggerCombinationParameter",{});
+﻿NDSummary.OnToolTipsLoaded("CClass:EventTriggerCombinationParameter",{2484:"<div class=\"NDToolTip TStruct LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype2484\"><div class=\"CPEntry TStruct Current\"><div class=\"CPModifiers\"><span class=\"SHKeyword\">struct</span></div><div class=\"CPName\">EventTriggerCombinationParameter</div></div></div></div>"});

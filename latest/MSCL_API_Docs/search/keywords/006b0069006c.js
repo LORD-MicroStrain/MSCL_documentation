@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("kil",["Function"],[["KiloHertz",,[["SampleRate",,,,0,"File:MicroStrain/SampleRate.h:SampleRate.KiloHertz","CClass:SampleRate:KiloHertz"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("kil",["Function"],[["KiloHertz",,[["SampleRate",,,,0,"File:mscl/MicroStrain/SampleRate.h:SampleRate.KiloHertz","CClass:SampleRate:KiloHertz"]]]]);

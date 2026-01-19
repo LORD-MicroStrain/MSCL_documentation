@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("unl",["Function"],[["unlimitedDuration",,[["WirelessNodeConfig",,,,0,"File:MicroStrain/Wireless/Configuration/WirelessNodeConfig.h:WirelessNodeConfig.unlimitedDuration","CClass:WirelessNodeConfig:unlimitedDuration"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("unl",["Function"],[["unlimitedDuration",,[["WirelessNodeConfig",,,,0,"File:mscl/MicroStrain/Wireless/Configuration/WirelessNodeConfig.h:WirelessNodeConfig.unlimitedDuration","CClass:WirelessNodeConfig:unlimitedDuration"]]]]);

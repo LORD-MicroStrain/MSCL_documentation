@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("ech",["Enumeration"],[["ECHO_INPUT",,[["AidingMeasurementInput",,,,0,"File:MicroStrain/MIP/MipTypes.h:AidingMeasurementInput.ECHO_INPUT","CClass:AidingMeasurementInput:ECHO_INPUT"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ech",["Enumeration"],[["ECHO_INPUT",,[["AidingMeasurementInput",,,,0,"File:mscl/MicroStrain/MIP/MipTypes.h:AidingMeasurementInput.ECHO_INPUT","CClass:AidingMeasurementInput:ECHO_INPUT"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("asq",["Function"],[["asQuaternion",,[["Rotation",,,,0,"File:MicroStrain/Inertial/EulerAngles.h:Rotation.asQuaternion","CClass:Rotation:asQuaternion"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("asq",["Function"],[["asQuaternion",,[["Rotation",,,,0,"File:mscl/MicroStrain/Inertial/EulerAngles.h:Rotation.asQuaternion","CClass:Rotation:asQuaternion"]]]]);

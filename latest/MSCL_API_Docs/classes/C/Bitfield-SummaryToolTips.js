@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("CClass:Bitfield",{4530:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype4530\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">Bitfield</div></div></div></div>"});

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("tcp",["Function","Class"],[["TcpIp",,[["Connection",,,,0,"File:Communication/Connection.h:Connection.TcpIp","CClass:Connection:TcpIp"]]],["TcpIpConnection",,[[,,,,1,"File:Communication/TcpIpConnection.h:TcpIpConnection","CClass:TcpIpConnection"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("tcp",["Function","Class"],[["TcpIp",,[["Connection",,,,0,"File:mscl/Communication/Connection.h:Connection.TcpIp","CClass:Connection:TcpIp"]]],["TcpIpConnection",,[[,,,,1,"File:mscl/Communication/TcpIpConnection.h:TcpIpConnection","CClass:TcpIpConnection"]]]]);

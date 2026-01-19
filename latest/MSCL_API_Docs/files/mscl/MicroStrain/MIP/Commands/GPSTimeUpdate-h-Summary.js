@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/MicroStrain/MIP/Commands/GPSTimeUpdate.h","GPSTimeUpdate.h");NDSummary.OnSummaryLoaded("File:mscl/MicroStrain/MIP/Commands/GPSTimeUpdate.h",[["C/C++","C"]],[["Enums","Enumeration"]],[[360,0,0,"TimeFieldSelector","TimeFieldSelector"]]);

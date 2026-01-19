@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("uns",["Enumeration"],[["UNSTABLE",,[[,,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:UNSTABLE"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("uns",["Enumeration"],[["UNSTABLE",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:UNSTABLE"]]]]);

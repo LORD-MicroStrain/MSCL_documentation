@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("hst",["Type"],[["hstring",,[[,,,,0,"File:Utils_Win32.h:hstring"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("hst",["Type"],[["hstring",,[[,,,,0,"File:mscl/Utils_Win32.h:hstring"]]]]);

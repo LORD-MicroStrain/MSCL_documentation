@@ -1,1 +1,0 @@
-NDFramePage.OnPageTitleLoaded("File:MicroStrain/Wireless/Commands/BeaconStatus.h","BeaconStatus.h");NDSummary.OnSummaryLoaded("File:MicroStrain/Wireless/Commands/BeaconStatus.h",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[2724,0,0,"BeaconStatus","BeaconStatus"],[2725,0,1,"enabled","BeaconStatus.enabled"],[2726,0,1,"timestamp;","BeaconStatus.timestamp_"]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("swe",["Function"],[["sweepsPerSession",,[["SyncNodeConfig",,,,0,"File:MicroStrain/Wireless/Configuration/SyncNodeConfig.h:SyncNodeConfig.sweepsPerSession","CClass:SyncNodeConfig:sweepsPerSession"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("swe",["Function"],[["sweepsPerSession",,[["SyncNodeConfig",,,,0,"File:mscl/MicroStrain/Wireless/Configuration/SyncNodeConfig.h:SyncNodeConfig.sweepsPerSession","CClass:SyncNodeConfig:sweepsPerSession"]]]]);

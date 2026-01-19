@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("l5",["Constant"],[["L5",,[["GnssSignalConfiguration",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.L5","CClass:GnssSignalConfiguration:L5"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("l5",["Constant"],[["L5",,[["GnssSignalConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.L5","CClass:GnssSignalConfiguration:L5"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("tom",["Function"],[["toMask",,[["BitMask",,,,0,"File:BitMask.h:BitMask.toMask","CClass:BitMask:toMask"],["ChannelMask",,,,0,"File:MicroStrain/Wireless/ChannelMask.h:ChannelMask.toMask","CClass:ChannelMask:toMask"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("tom",["Function"],[["toMask",,[["BitMask",,,,0,"File:mscl/BitMask.h:BitMask.toMask","CClass:BitMask:toMask"],["ChannelMask",,,,0,"File:mscl/MicroStrain/Wireless/ChannelMask.h:ChannelMask.toMask","CClass:ChannelMask:toMask"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("lim",["Constant"],[["Limits",,[["NodeEepromHelper","Eeprom Limits",,,0,"File:MicroStrain/Wireless/Configuration/NodeEepromHelper.h:NodeEepromHelper.Eeprom_Limits","CClass:NodeEepromHelper:Eeprom_Limits"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("lim",["Constant"],[["Limits",,[["NodeEepromHelper","Eeprom Limits",,,0,"File:mscl/MicroStrain/Wireless/Configuration/NodeEepromHelper.h:NodeEepromHelper.Eeprom_Limits","CClass:NodeEepromHelper:Eeprom_Limits"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("l2o",["Constant"],[["L2OF",,[["GnssSignalConfiguration",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.L2OF","CClass:GnssSignalConfiguration:L2OF"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("l2o",["Constant"],[["L2OF",,[["GnssSignalConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.L2OF","CClass:GnssSignalConfiguration:L2OF"]]]]);

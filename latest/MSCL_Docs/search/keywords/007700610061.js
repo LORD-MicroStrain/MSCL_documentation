@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("waa",["Constant"],[["WAAS",,[[,,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:WAAS"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("waa",["Constant"],[["WAAS",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:WAAS"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("m_m",["Variable"],[["m_mode",,[["OdometerConfiguration",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:OdometerConfiguration.m_mode","CClass:OdometerConfiguration:m_mode"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("m_m",["Variable"],[["m_mode",,[["OdometerConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:OdometerConfiguration.m_mode","CClass:OdometerConfiguration:m_mode"]]]]);

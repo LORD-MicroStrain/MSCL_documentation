@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("gag",["Enumeration"],[["GAGAN",,[[,,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:GAGAN"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("gag",["Enumeration"],[["GAGAN",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GAGAN"]]]]);

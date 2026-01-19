@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("pea",["Function"],[["peakValleyThreshold",,[["FatigueOptions",,,,0,"File:MicroStrain/Wireless/Configuration/FatigueOptions.h:FatigueOptions.peakValleyThreshold","CClass:FatigueOptions:peakValleyThreshold"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("pea",["Function"],[["peakValleyThreshold",,[["FatigueOptions",,,,0,"File:mscl/MicroStrain/Wireless/Configuration/FatigueOptions.h:FatigueOptions.peakValleyThreshold","CClass:FatigueOptions:peakValleyThreshold"]]]]);

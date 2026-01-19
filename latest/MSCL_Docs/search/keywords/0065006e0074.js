@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("ent",["Variable"],[["entries",,[["EventSupportInfo",,,,0,"File:MicroStrain/MIP/MipTypes.h:EventSupportInfo.entries","CClass:EventSupportInfo:entries"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ent",["Variable"],[["entries",,[["EventSupportInfo",,,,0,"File:mscl/MicroStrain/MIP/MipTypes.h:EventSupportInfo.entries","CClass:EventSupportInfo:entries"]]]]);

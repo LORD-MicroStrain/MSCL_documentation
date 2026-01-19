@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("ign",["Enumeration"],[["IGNORED",,[["NmeaMessageFormat",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.IGNORED","CClass:NmeaMessageFormat:IGNORED"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ign",["Enumeration"],[["IGNORED",,[["NmeaMessageFormat",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.IGNORED","CClass:NmeaMessageFormat:IGNORED"]]]]);

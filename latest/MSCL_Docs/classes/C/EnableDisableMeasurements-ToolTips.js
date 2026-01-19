@@ -1,1 +1,1 @@
-NDContentPage.OnToolTipsLoaded({2466:"<div class=\"NDToolTip TEnumeration LC\"><div class=\"TTSummary\">Indicates the bit value used to enable/disable available measurement options</div></div>"});
+﻿NDContentPage.OnToolTipsLoaded({2281:"<div class=\"NDToolTip TEnumeration LC\"><div class=\"TTSummary\">Indicates the bit value used to enable/disable available measurement options</div></div>"});

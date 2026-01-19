@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("usb",["Function"],[["usbPortInfo",,[["DeviceStatusData",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:DeviceStatusData.usbPortInfo","CClass:DeviceStatusData:usbPortInfo"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("usb",["Function"],[["usbPortInfo",,[["DeviceStatusData",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:DeviceStatusData.usbPortInfo","CClass:DeviceStatusData:usbPortInfo"]]]]);

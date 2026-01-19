@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("~ac",["Function"],[["~AccelBias",,[["AccelBias",,,,0,"File:MicroStrain/Inertial/Commands/AccelBias.h:AccelBias.~AccelBias","CClass:AccelBias:~AccelBias"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("~ac",["Function"],[["~AccelBias",,[["AccelBias",,,,0,"File:mscl/MicroStrain/Inertial/Commands/AccelBias.h:AccelBias.~AccelBias","CClass:AccelBias:~AccelBias"]]]]);

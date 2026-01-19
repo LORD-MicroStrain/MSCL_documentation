@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/MicroStrain/Wireless/Commands/Sleep.h","Sleep.h");NDSummary.OnSummaryLoaded("File:mscl/MicroStrain/Wireless/Commands/Sleep.h",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[5393,0,0,"Sleep","Sleep"],[5394,0,2,"Functions","Sleep.Functions"],[5395,0,1,"buildCommand","Sleep.buildCommand"]]);

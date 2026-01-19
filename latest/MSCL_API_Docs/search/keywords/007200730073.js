@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("rss",["Function"],[["rssi",,[["RTKDeviceStatusFlags",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:RTKDeviceStatusFlags.rssi","CClass:RTKDeviceStatusFlags:rssi"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("rss",["Function"],[["rssi",,[["RTKDeviceStatusFlags",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:RTKDeviceStatusFlags.rssi","CClass:RTKDeviceStatusFlags:rssi"]]]]);

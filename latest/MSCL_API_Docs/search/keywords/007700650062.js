@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("web",["Function"],[["WebSocket",,[["Connection",,,,0,"File:Communication/Connection.h:Connection.WebSocket","CClass:Connection:WebSocket"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("web",["Function"],[["WebSocket",,[["Connection",,,,0,"File:mscl/Communication/Connection.h:Connection.WebSocket","CClass:Connection:WebSocket"]]]]);

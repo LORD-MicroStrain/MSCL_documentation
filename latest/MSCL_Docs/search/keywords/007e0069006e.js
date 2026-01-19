@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("~in",["Function"],[["~InertialNode",,[["MipNode_Impl",,,,0,"File:MicroStrain/MIP/MipNode_Impl.h:MipNode_Impl.~InertialNode","CClass:MipNode_Impl:~InertialNode"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("~in",["Function"],[["~InertialNode",,[["MipNode_Impl",,,,0,"File:mscl/MicroStrain/MIP/MipNode_Impl.h:MipNode_Impl.~InertialNode","CClass:MipNode_Impl:~InertialNode"]]]]);

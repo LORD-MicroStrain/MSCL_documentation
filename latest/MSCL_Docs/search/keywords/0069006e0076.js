@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("inv",["Constant"],[["INVALID_PACKET",,[["RawBytePacket",,,,0,"File:Communication/RawBytePacket.h:RawBytePacket.INVALID_PACKET","CClass:RawBytePacket:INVALID_PACKET"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("inv",["Constant"],[["INVALID_PACKET",,[["RawBytePacket",,,,0,"File:mscl/Communication/RawBytePacket.h:RawBytePacket.INVALID_PACKET","CClass:RawBytePacket:INVALID_PACKET"]]]]);

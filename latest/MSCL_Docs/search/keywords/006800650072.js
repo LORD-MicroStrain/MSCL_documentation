@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("her",["Function"],[["Hertz",,[["SampleRate",,,,0,"File:MicroStrain/SampleRate.h:SampleRate.Hertz","CClass:SampleRate:Hertz"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("her",["Function"],[["Hertz",,[["SampleRate",,,,0,"File:mscl/MicroStrain/SampleRate.h:SampleRate.Hertz","CClass:SampleRate:Hertz"]]]]);

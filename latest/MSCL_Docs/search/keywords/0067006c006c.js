@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("gll",["Constant"],[["GLL",,[["NmeaMessageFormat",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.GLL","CClass:NmeaMessageFormat:GLL"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("gll",["Constant"],[["GLL",,[["NmeaMessageFormat",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.GLL","CClass:NmeaMessageFormat:GLL"]]]]);

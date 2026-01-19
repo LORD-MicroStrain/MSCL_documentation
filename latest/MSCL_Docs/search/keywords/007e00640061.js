@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("~da",["Function"],[["~DataBuffer",,[["DataBuffer",,,,0,"File:MicroStrain/DataBuffer.h:DataBuffer.~DataBuffer","CClass:DataBuffer:~DataBuffer"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("~da",["Function"],[["~DataBuffer",,[["DataBuffer",,,,0,"File:mscl/MicroStrain/DataBuffer.h:DataBuffer.~DataBuffer","CClass:DataBuffer:~DataBuffer"]]]]);

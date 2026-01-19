@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("pan",["Function"],[["panId",,[["NodeDiscovery",,,,0,"File:MicroStrain/Wireless/NodeDiscovery.h:NodeDiscovery.panId","CClass:NodeDiscovery:panId"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("pan",["Function"],[["panId",,[["NodeDiscovery",,,,0,"File:mscl/MicroStrain/Wireless/NodeDiscovery.h:NodeDiscovery.panId","CClass:NodeDiscovery:panId"]]]]);

@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("utc",["Enumeration","Function"],[["UTC",,[["Timestamp",,,,0,"File:Timestamp.h:Timestamp.UTC","CClass:Timestamp:UTC"]]],["utcTimeToGpsTime",,[["Timestamp",,,,1,"File:Timestamp.h:Timestamp.utcTimeToGpsTime","CClass:Timestamp:utcTimeToGpsTime"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("utc",["Enumeration","Function"],[["UTC",,[["Timestamp",,,,0,"File:mscl/Timestamp.h:Timestamp.UTC","CClass:Timestamp:UTC"]]],["utcTimeToGpsTime",,[["Timestamp",,,,1,"File:mscl/Timestamp.h:Timestamp.utcTimeToGpsTime","CClass:Timestamp:utcTimeToGpsTime"]]]]);

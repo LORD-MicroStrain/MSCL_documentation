@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("~bi",["Function"],[["~Bitfield",,[["Bitfield",,,,0,"File:MicroStrain/Bitfield.h:Bitfield.~Bitfield","CClass:Bitfield:~Bitfield"]]],["~BitMask",,[["BitMask",,,,0,"File:BitMask.h:BitMask.~BitMask","CClass:BitMask:~BitMask"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("~bi",["Function"],[["~Bitfield",,[["Bitfield",,,,0,"File:mscl/MicroStrain/Bitfield.h:Bitfield.~Bitfield","CClass:Bitfield:~Bitfield"]]],["~BitMask",,[["BitMask",,,,0,"File:mscl/BitMask.h:BitMask.~BitMask","CClass:BitMask:~BitMask"]]]]);

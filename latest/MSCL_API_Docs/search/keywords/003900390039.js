@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("999",["Constant"],[["999",,[["WirelessTypes","UNKNOWN_RSSI = 999",,"unknown_rssi=999",0,"File:MicroStrain/Wireless/WirelessTypes.h:WirelessTypes.UNKNOWN_RSSI=999","CClass:WirelessTypes:UNKNOWN_RSSI=999"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("999",["Constant"],[["999",,[["WirelessTypes","UNKNOWN_RSSI = 999",,"unknown_rssi=999",0,"File:mscl/MicroStrain/Wireless/WirelessTypes.h:WirelessTypes.UNKNOWN_RSSI=999","CClass:WirelessTypes:UNKNOWN_RSSI=999"]]]]);

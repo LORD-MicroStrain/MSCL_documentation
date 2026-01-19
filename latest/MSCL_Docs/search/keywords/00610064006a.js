@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("adj",["Function"],[["adjustPacketTimestamp",,[["MipPacketCollector",,,,0,"File:MicroStrain/MIP/Packets/MipPacketCollector.h:MipPacketCollector.adjustPacketTimestamp","CClass:MipPacketCollector:adjustPacketTimestamp"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("adj",["Function"],[["adjustPacketTimestamp",,[["MipPacketCollector",,,,0,"File:mscl/MicroStrain/MIP/Packets/MipPacketCollector.h:MipPacketCollector.adjustPacketTimestamp","CClass:MipPacketCollector:adjustPacketTimestamp"]]]]);

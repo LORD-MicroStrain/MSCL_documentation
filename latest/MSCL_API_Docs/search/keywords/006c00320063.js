@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("l2c",["Enumeration"],[["L2C",,[["GnssSignalConfiguration",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.L2C","CClass:GnssSignalConfiguration:L2C"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("l2c",["Enumeration"],[["L2C",,[["GnssSignalConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GnssSignalConfiguration.L2C","CClass:GnssSignalConfiguration:L2C"]]]]);

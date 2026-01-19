@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("gsv",["Constant"],[["GSV",,[["NmeaMessageFormat",,,,0,"File:MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.GSV","CClass:NmeaMessageFormat:GSV"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("gsv",["Constant"],[["GSV",,[["NmeaMessageFormat",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:NmeaMessageFormat.GSV","CClass:NmeaMessageFormat:GSV"]]]]);

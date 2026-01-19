@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("mil",["Function"],[["MilliSeconds",,[["TimeSpan",,,,0,"File:TimeSpan.h:TimeSpan.MilliSeconds","CClass:TimeSpan:MilliSeconds"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("mil",["Function"],[["MilliSeconds",,[["TimeSpan",,,,0,"File:mscl/TimeSpan.h:TimeSpan.MilliSeconds","CClass:TimeSpan:MilliSeconds"]]]]);

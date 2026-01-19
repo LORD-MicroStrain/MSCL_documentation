@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("msn",["Function"],[["msNibble",,[["Utils",,,,0,"File:Utils.h:Utils.msNibble","CClass:Utils:msNibble"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("msn",["Function"],[["msNibble",,[["Utils",,,,0,"File:mscl/Utils.h:Utils.msNibble","CClass:Utils:msNibble"]]]]);
