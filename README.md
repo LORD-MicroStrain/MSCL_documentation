@@ -1,3 +1,7 @@
+# Our documentation page has moved! Please go to [this](https://hbk-microstrain.github.io/MSCL-Documentation/) page for current MSCL documentation
+
+---
+
 # MSCL documentation
 
 If you have any questions or run into any issues, please let us know! [MicroStrain Support Portal](https://support.microstrain.com)
