@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("loc",["Enumeration"],[["LOCAL",,[["Vec3f",,,,0,"File:mscl/MicroStrain/Inertial/PositionVelocity.h:Vec3f.LOCAL","CClass:Vec3f:LOCAL"]]]]);

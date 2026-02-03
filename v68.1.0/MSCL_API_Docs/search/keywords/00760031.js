@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("v1",["Enumeration"],[["V1",,[["WirelessTypes",,,,0,"File:mscl/MicroStrain/Wireless/WirelessTypes.h:WirelessTypes.V1","CClass:WirelessTypes:V1"]]]]);

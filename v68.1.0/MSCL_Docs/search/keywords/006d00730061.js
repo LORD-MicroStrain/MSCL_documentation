@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("msa",["Constant"],[["MSAS",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:MSAS"]]]]);

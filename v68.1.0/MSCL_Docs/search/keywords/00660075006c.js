@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ful",["Function"],[["fullyMatched",,[["ResponsePattern",,,,0,"File:mscl/MicroStrain/ResponsePattern.h:ResponsePattern.fullyMatched","CClass:ResponsePattern:fullyMatched"]]]]);

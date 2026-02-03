@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("~mo",["Function"],[["~MockConnection",,[["MockConnection",,,,0,"File:mscl/Communication/MockConnection.h:MockConnection.~MockConnection","CClass:MockConnection:~MockConnection"]]]]);

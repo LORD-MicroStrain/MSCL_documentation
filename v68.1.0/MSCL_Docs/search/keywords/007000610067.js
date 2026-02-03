@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pag",["Class","Variable"],[["PageDownload",,[[,,,,0,"File:mscl/MicroStrain/Wireless/Commands/PageDownload.h:PageDownload(2)","CClass:PageDownload"]]],["pageSize",,[["FlashInfo",,,,1,"File:mscl/MicroStrain/Wireless/Features/FlashInfo.h:FlashInfo.pageSize","CClass:FlashInfo:pageSize"]]]]);

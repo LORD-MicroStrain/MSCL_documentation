@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:mscl/MicroStrain/RTK/Commands/ActivationCode.h",{5186:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype5186\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">ActivationCode</div></div></div><div class=\"TTSummary\">Contains the logic for the ActivationCode command.</div></div>"});

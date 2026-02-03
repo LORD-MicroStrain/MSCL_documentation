@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("~se",["Function"],[["~SerialConnection",,[["SerialConnection",,,,0,"File:mscl/Communication/SerialConnection.h:SerialConnection.~SerialConnection","CClass:SerialConnection:~SerialConnection"]]]]);

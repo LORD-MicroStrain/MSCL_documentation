@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/MicroStrain/Wireless/BaseStationInfo.h","BaseStationInfo.h");NDSummary.OnSummaryLoaded("File:mscl/MicroStrain/Wireless/BaseStationInfo.h",[["C/C++","C"]],[["Functions","Function"],["Structs","Struct"]],[[4383,0,1,"BaseStationInfo","BaseStationInfo"],[4384,0,0,"BaseStationInfo","BaseStationInfo.BaseStationInfo"]]);

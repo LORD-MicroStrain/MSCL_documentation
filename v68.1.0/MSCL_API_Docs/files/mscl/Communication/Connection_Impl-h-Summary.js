@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/Communication/Connection_Impl.h","Connection_Impl.h");NDSummary.OnSummaryLoaded("File:mscl/Communication/Connection_Impl.h",[["C/C++","C"]],[["Functions","Function"]],[[36,0,0,"updateBaudRate","updateBaudRate"]]);

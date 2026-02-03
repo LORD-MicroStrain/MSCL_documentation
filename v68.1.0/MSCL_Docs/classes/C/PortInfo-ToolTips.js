@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({2261:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype2261\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">DeviceStatusData</div></div></div><div class=\"TTSummary\">Contains the data needed by the InertialNode::getBasicDeviceStatus method.</div></div>"});

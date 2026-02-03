@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dou",["Function"],[["DOUBLE",,[["Value",,,,0,"File:mscl/Value.h:Value.DOUBLE","CClass:Value:DOUBLE"]]]]);

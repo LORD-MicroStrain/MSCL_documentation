@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("odo",["Constant","Class"],[["ODOMETER_AIDING",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:ODOMETER_AIDING"]]],["OdometerConfiguration",,[[,,,,1,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:OdometerConfiguration","CClass:OdometerConfiguration"]]]]);

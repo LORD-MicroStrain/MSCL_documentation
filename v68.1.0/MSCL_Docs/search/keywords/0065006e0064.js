@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("end",["Function","Enumeration"],[["end",,[["Bin",,,,0,"File:mscl/Bin.h:Bin.end","CClass:Bin:end"],["ByteStream",,,,0,"File:mscl/MicroStrain/ByteStream.h:ByteStream.end","CClass:ByteStream:end"]]],["Endianness",,[["Utils",,,,1,"File:mscl/Utils.h:Utils.Endianness","CClass:Utils:Endianness"]]]]);

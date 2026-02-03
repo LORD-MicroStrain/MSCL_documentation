@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("upn",["Struct"],[["UpnpDevice",,[[,,,,0,"File:mscl/Communication/UpnpDeviceFinderCallback.h:UpnpDevice","CClass:UpnpDevice"]]]]);

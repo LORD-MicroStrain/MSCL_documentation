@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("CClass:FieldParser_RawMagVector",{1182:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype1182\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">FieldParser_RawMagVector</div></div></div><div class=\"TTSummary\">The field parser for raw magnetometer data</div></div>"});

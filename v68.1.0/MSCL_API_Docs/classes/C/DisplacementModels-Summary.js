@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:DisplacementModels","DisplacementModels");NDSummary.OnSummaryLoaded("CClass:DisplacementModels",[["C/C++","C"]],[["Classes","Class"],["Enums","Enumeration"]],[[37,0,0,"DisplacementModels"],[38,0,1,"NodeModel","NodeModel"],[39,0,1,,"node_digitalDemod"]]);

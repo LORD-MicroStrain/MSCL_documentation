@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:Error_InvalidUnixSocket","Error_InvalidUnixSocket");NDSummary.OnSummaryLoaded("CClass:Error_InvalidUnixSocket",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[4674,0,0,"Error_InvalidUnixSocket"],[4675,0,1,"Error_InvalidUnixSocket","Error_InvalidUnixSocket"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mut",["Type"],[["mutex_lock_guard",,[[,,,,0,"File:mscl/Types.h:mutex_lock_guard"]]]]);

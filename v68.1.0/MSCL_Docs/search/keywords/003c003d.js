@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("<=",["Operator"],[["&lt;=","<=",[["Timestamp",,,"<=",0,"File:mscl/Timestamp.h:Timestamp.<=","CClass:Timestamp:<="]]]]);

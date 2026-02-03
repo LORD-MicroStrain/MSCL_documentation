@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:WsdaFinder","WsdaFinder");NDSummary.OnSummaryLoaded("CClass:WsdaFinder",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Types","Type"]],[[6,0,0,"WsdaFinder"],[7,0,2,"WsdaMap","WsdaMap"],[8,0,1,"~WsdaFinder","~WsdaFinder"],[9,0,1,"found","found"],[10,0,1,"restart","restart"]]);

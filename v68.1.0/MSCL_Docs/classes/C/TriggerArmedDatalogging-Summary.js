@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:TriggerArmedDatalogging","TriggerArmedDatalogging");NDSummary.OnSummaryLoaded("CClass:TriggerArmedDatalogging",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[5329,0,0,"TriggerArmedDatalogging"],[5330,0,2,"Functions","Functions"],[5331,0,1,"buildCommand","buildCommand"]]);

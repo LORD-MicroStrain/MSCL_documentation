@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:HeadingData","HeadingData");NDSummary.OnSummaryLoaded("CClass:HeadingData",[["C/C++","C"]],[["Enums","Enumeration"],["Structs","Struct"],["Variables","Variable"]],[[780,0,1,"HeadingData"],[781,0,0,"HeadingType","HeadingType"],[782,0,2,"headingAngle","headingAngle"],[783,0,2,"headingAngleUncertainty","headingAngleUncertainty"]]);

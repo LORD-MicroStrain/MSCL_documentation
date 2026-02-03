@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("egn",["Enumeration"],[["EGNOS",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:EGNOS"]]]]);

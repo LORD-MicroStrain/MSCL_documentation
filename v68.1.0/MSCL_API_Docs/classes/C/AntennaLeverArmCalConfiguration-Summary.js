@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:AntennaLeverArmCalConfiguration","AntennaLeverArmCalConfiguration");NDSummary.OnSummaryLoaded("CClass:AntennaLeverArmCalConfiguration",[["C/C++","C"]],[["Structs","Struct"],["Variables","Variable"]],[[912,0,0,"AntennaLeverArmCalConfiguration"],[913,0,1,"enabled","enabled"],[914,0,1,"maxOffsetError","maxOffsetError"]]);

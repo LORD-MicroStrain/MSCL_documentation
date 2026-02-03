@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:Error_InvalidTcpServer","Error_InvalidTcpServer");NDSummary.OnSummaryLoaded("CClass:Error_InvalidTcpServer",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"]],[[4672,0,0,"Error_InvalidTcpServer"],[4673,0,1,"Error_InvalidTcpServer","Error_InvalidTcpServer"]]);

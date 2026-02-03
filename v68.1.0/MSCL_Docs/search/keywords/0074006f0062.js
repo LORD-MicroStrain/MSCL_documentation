@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tob",["Function"],[["toByte",,[["DeliveryStopFlags",,,,0,"File:mscl/MicroStrain/Wireless/DeliveryStopFlags.h:DeliveryStopFlags.toByte","CClass:DeliveryStopFlags:toByte"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("on_",["Enumeration"],[["ON_FULL_PERFORMANCE",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:ON_FULL_PERFORMANCE"]]],["ON_LOW_POWER",,[[,,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:ON_LOW_POWER"]]]]);

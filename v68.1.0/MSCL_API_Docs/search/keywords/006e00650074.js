@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("net",["Enumeration"],[["NETWORK",,[["GnssSpartnConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GnssSpartnConfiguration.NETWORK","CClass:GnssSpartnConfiguration:NETWORK"]]]]);

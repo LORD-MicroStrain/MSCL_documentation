@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("~bi",["Function"],[["~BitMask",,[["BitMask",,,,0,"File:mscl/BitMask.h:BitMask.~BitMask","CClass:BitMask:~BitMask"]]]]);

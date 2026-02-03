@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:NodeFeatures_iepeLink","NodeFeatures_iepeLink");NDSummary.OnSummaryLoaded("CClass:NodeFeatures_iepeLink",[["C/C++","C"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[7027,0,0,"NodeFeatures_iepeLink"],[7028,0,2,"Functions","Functions"],[7029,0,1,"NodeFeatures_iepeLink","NodeFeatures_iepeLink"]]);

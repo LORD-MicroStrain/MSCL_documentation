@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lba",["Enumeration"],[["LBAND",,[["GnssSpartnConfiguration",,,,0,"File:mscl/MicroStrain/Inertial/ExposedInertialTypes.h:GnssSpartnConfiguration.LBAND","CClass:GnssSpartnConfiguration:LBAND"]]]]);

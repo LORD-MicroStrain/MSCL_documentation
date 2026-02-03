@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:PositionReferenceConfiguration","PositionReferenceConfiguration");NDSummary.OnSummaryLoaded("CClass:PositionReferenceConfiguration",[["C/C++","C"]],[["Structs","Struct"],["Variables","Variable"]],[[909,0,0,"PositionReferenceConfiguration"],[910,0,1,"autoConfig","autoConfig"],[911,0,1,"position","position"]]);

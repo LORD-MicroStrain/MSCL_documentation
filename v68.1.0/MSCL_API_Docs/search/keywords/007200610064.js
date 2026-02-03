@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rad",["Class","Function"],[["RadioFeatures",,[[,,,,0,"File:mscl/MicroStrain/Wireless/RadioFeatures.h:RadioFeatures","CClass:RadioFeatures"],["WirelessNode","radioFeatures",,,1,"File:mscl/MicroStrain/Wireless/WirelessNode.h:WirelessNode.radioFeatures","CClass:WirelessNode:radioFeatures"]]]]);

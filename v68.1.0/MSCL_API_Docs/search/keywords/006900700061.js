@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ipa",["Function"],[["ipAddress",,[["WsdaInfo",,,,0,"File:mscl/Communication/WsdaFinder.h:WsdaInfo.ipAddress","CClass:WsdaInfo:ipAddress"]]]]);

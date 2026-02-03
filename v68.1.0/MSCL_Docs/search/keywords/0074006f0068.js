@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("toh",["Function"],[["toHstring",,[["Utils_Win32",,,,0,"File:mscl/Utils_Win32.h:Utils_Win32.toHstring","CClass:Utils_Win32:toHstring"]]]]);

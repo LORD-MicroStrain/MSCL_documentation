@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rfs",["Type"],[["RfSweep",,[[,,,,0,"File:mscl/MicroStrain/DataPoint.h:RfSweep"]]]]);

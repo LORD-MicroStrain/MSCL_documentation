@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("big",["Function"],[["BigEndian",,[[,,,,0,"File:mscl/Endianness.h:BigEndian"]]],["BigEndian_To_SystemEndian",,[[,,,,0,"File:mscl/Endianness.h:BigEndian_To_SystemEndian"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("~ws",["Function"],[["~WsdaFinder",,[["WsdaFinder",,,,0,"File:mscl/Communication/WsdaFinder.h:WsdaFinder.~WsdaFinder","CClass:WsdaFinder:~WsdaFinder"]]]]);

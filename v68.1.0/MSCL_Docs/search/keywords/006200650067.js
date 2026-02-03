@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("beg",["Function"],[["begin",,[["ByteStream",,,,0,"File:mscl/MicroStrain/ByteStream.h:ByteStream.begin","CClass:ByteStream:begin"]]]]);

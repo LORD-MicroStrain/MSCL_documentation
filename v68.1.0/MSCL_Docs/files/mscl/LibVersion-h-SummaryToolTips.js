@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:mscl/LibVersion.h",{10383:"<div class=\"NDToolTip TVariable LC\"><div id=\"NDPrototype10383\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">static const</span> Version MSCL_VERSION</div></div><div class=\"TTSummary\">Gets the Version of MSCL.</div></div>"});

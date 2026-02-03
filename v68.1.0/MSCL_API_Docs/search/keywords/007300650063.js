@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sec",["Function"],[["Seconds",,[["Timestamp","seconds",,,0,"File:mscl/Timestamp.h:Timestamp.seconds","CClass:Timestamp:seconds"],["SampleRate",,,,0,"File:mscl/MicroStrain/SampleRate.h:SampleRate.Seconds","CClass:SampleRate:Seconds"],["TimeSpan",,,,0,"File:mscl/TimeSpan.h:TimeSpan.Seconds","CClass:TimeSpan:Seconds"]]]]);

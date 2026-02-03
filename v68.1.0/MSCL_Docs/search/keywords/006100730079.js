@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("asy",["Class"],[["AsyncDigitalAnalogPacket",,[[,,,,0,"File:mscl/MicroStrain/Wireless/Packets/AsyncDigitalAnalogPacket.h:AsyncDigitalAnalogPacket","CClass:AsyncDigitalAnalogPacket"]]],["AsyncDigitalPacket",,[[,,,,0,"File:mscl/MicroStrain/Wireless/Packets/AsyncDigitalPacket.h:AsyncDigitalPacket","CClass:AsyncDigitalPacket"]]]]);

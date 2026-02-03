@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rol",["Function","Class"],[["roll",,[["EulerAngles",,,,0,"File:mscl/MicroStrain/Inertial/EulerAngles.h:EulerAngles.roll","CClass:EulerAngles:roll"]]],["RollerPacket",,[[,,,,1,"File:mscl/MicroStrain/Wireless/Packets/RollerPacket.h:RollerPacket","CClass:RollerPacket"]]]]);

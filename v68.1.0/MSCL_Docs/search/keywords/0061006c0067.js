@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("alg",["Variable","Struct"],[["algorithmId",,[["AlgorithmMetaData",,,,0,"File:mscl/MicroStrain/Wireless/Packets/WirelessDataPacket.h:AlgorithmMetaData.algorithmId","CClass:AlgorithmMetaData:algorithmId"]]],["AlgorithmMetaData",,[[,,,,1,"File:mscl/MicroStrain/Wireless/Packets/WirelessDataPacket.h:AlgorithmMetaData","CClass:AlgorithmMetaData"]]]]);

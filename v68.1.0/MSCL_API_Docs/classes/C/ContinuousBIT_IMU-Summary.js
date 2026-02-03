@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:ContinuousBIT_IMU","ContinuousBIT_IMU");NDSummary.OnSummaryLoaded("CClass:ContinuousBIT_IMU",[["C/C++","C"]],[["Constants","Constant"],["Functions","Function"],["Structs","Struct"]],[[2401,0,2,"ContinuousBIT_IMU"],[2402,0,0,"RESPONSE_OFFSET","RESPONSE_OFFSET"],[2403,0,1,"flags","flags"]]);

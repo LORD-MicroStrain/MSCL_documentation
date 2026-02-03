@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("[]",["Operator"],[["[]",,[["ByteStream",,,,0,"File:mscl/MicroStrain/ByteStream.h:ByteStream.[]","CClass:ByteStream:[]"]]]]);
