@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File:mscl/MicroStrain/Bitfield.h","Bitfield.h");NDSummary.OnSummaryLoaded("File:mscl/MicroStrain/Bitfield.h",[["C/C++","C"]],[["Classes","Class"]],[[4530,0,0,"Bitfield","Bitfield"]]);
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/MicroStrain/Bitfield.h","Bitfield.h");NDSummary.OnSummaryLoaded("File:mscl/MicroStrain/Bitfield.h",[["C/C++","C"]],[["Classes","Class"]],[[4537,0,0,"Bitfield","Bitfield"]]);

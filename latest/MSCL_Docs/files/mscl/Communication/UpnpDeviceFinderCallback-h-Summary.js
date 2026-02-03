@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File:mscl/Communication/UpnpDeviceFinderCallback.h","UpnpDeviceFinderCallback.h");NDSummary.OnSummaryLoaded("File:mscl/Communication/UpnpDeviceFinderCallback.h",[["C/C++","C"]],[["Structs","Struct"]],[[51,0,0,"UpnpDevice","UpnpDevice"]]);
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/Communication/UpnpDeviceFinderCallback.h","UpnpDeviceFinderCallback.h");NDSummary.OnSummaryLoaded("File:mscl/Communication/UpnpDeviceFinderCallback.h",[["C/C++","C"]],[["Structs","Struct"]],[[1,0,0,"UpnpDevice","UpnpDevice"]]);

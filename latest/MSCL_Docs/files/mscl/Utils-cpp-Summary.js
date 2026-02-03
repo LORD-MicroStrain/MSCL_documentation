@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File:mscl/Utils.cpp","Utils.cpp");NDSummary.OnSummaryLoaded("File:mscl/Utils.cpp",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[10281,0,1,"Functions","Functions"],[10282,0,0,"getCurrentSystemTime","getCurrentSystemTime"]]);
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/Utils.cpp","Utils.cpp");NDSummary.OnSummaryLoaded("File:mscl/Utils.cpp",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[10297,0,1,"Functions","Functions"],[10298,0,0,"getCurrentSystemTime","getCurrentSystemTime"]]);

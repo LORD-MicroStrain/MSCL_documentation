@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("CClass:std.exception","exception");NDSummary.OnSummaryLoaded("CClass:std.exception",[["C/C++","C"]],[["Classes","Class"]],[[10401,0,0,"<span class=\"Qualifier\">std::</span>&#8203;exception"]]);
+﻿NDFramePage.OnPageTitleLoaded("CClass:std.exception","exception");NDSummary.OnSummaryLoaded("CClass:std.exception",[["C/C++","C"]],[["Classes","Class"]],[[10407,0,0,"<span class=\"Qualifier\">std::</span>&#8203;exception"]]);
