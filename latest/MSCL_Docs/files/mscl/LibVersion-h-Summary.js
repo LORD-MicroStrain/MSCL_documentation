@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("File:mscl/LibVersion.h","LibVersion.h");NDSummary.OnSummaryLoaded("File:mscl/LibVersion.h",[["C/C++","C"]],[["Groups","Group"],["Variables","Variable"]],[[10382,0,0,"Variables","Variables"],[10383,0,1,"MSCL_VERSION","MSCL_VERSION"]]);
+﻿NDFramePage.OnPageTitleLoaded("File:mscl/LibVersion.h","LibVersion.h");NDSummary.OnSummaryLoaded("File:mscl/LibVersion.h",[["C/C++","C"]],[["Groups","Group"],["Variables","Variable"]],[[10374,0,0,"Variables","Variables"],[10375,0,1,"MSCL_VERSION","MSCL_VERSION"]]);

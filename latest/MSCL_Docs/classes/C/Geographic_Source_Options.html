@@ -8,38 +8,38 @@
 
 <script type="text/javascript">var q = window.location.search;if (q.startsWith("?Theme=")){var t = q.slice(7);var e = t.indexOf(";");if (e != -1){  t = t.slice(0, e);  }document.documentElement.classList.add(t + "Theme")}</script>
 
-<a name="Topic2583"></a><div class="CTopic TStruct LC first">
+<a name="Topic2214"></a><div class="CTopic TStruct LC first">
  <div class="CTitle">Geographic Source Options</div>
  <div class="CBody"><p>Holds the Geographic Source Option and the fixed value if manual is selected.&nbsp; Determines the sources for Declination, Inclination, and Magnitude.</p></div>
 </div>
 
-<a name="Functions"></a><a name="Topic2584"></a><div class="CTopic TGroup LC">
+<a name="Functions"></a><a name="Topic2215"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="GeographicSourceOptions"></a><a name="Topic2585"></a><div class="CTopic TFunction LC">
+<a name="GeographicSourceOptions"></a><a name="Topic2216"></a><div class="CTopic TFunction LC">
  <div class="CTitle">GeographicSourceOptions</div>
- <div id="NDPrototype2585" class="NDPrototype"><div class="PSection PPlainSection">GeographicSourceOptions() : source(InertialTypes::GeographicSourceOption::NONE), manual(<span class="SHNumber">0.0</span>)</div></div>
+ <div id="NDPrototype2216" class="NDPrototype"><div class="PSection PPlainSection">GeographicSourceOptions() : source(InertialTypes::GeographicSourceOption::NONE), manual(<span class="SHNumber">0.0</span>)</div></div>
 </div>
 
-<a name="GeographicSourceOptions(2)"></a><a name="Topic2586"></a><div class="CTopic TFunction LC">
+<a name="GeographicSourceOptions(2)"></a><a name="Topic2217"></a><div class="CTopic TFunction LC">
  <div class="CTitle">GeographicSourceOptions</div>
- <div id="NDPrototype2586" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><div class="PParameterCells" data-WideColumnCount="5" data-NarrowColumnCount="4"><div class="PBeforeParameters" data-WideGridArea="1/1/3/2" data-NarrowGridArea="1/1/2/5" style="grid-area:1/1/3/2">GeographicSourceOptions(</div><div class="PModifierQualifier InFirstParameterColumn" data-WideGridArea="1/2/2/3" data-NarrowGridArea="2/1/3/2" style="grid-area:1/2/2/3"><span class="SHKeyword">const</span> InertialTypes::</div><div class="PType" data-WideGridArea="1/3/2/4" data-NarrowGridArea="2/2/3/3" style="grid-area:1/3/2/4">GeographicSourceOption&amp;&nbsp;</div><div class="PName InLastParameterColumn" data-WideGridArea="1/4/2/5" data-NarrowGridArea="2/3/3/4" style="grid-area:1/4/2/5">sourceValue,</div><div class="PModifierQualifier InFirstParameterColumn" data-WideGridArea="2/2/3/3" data-NarrowGridArea="3/1/4/2" style="grid-area:2/2/3/3"><span class="SHKeyword">const</span>&nbsp;</div><div class="PType" data-WideGridArea="2/3/3/4" data-NarrowGridArea="3/2/4/3" style="grid-area:2/3/3/4"><span class="SHKeyword">float</span>&nbsp;</div><div class="PName InLastParameterColumn" data-WideGridArea="2/4/3/5" data-NarrowGridArea="3/3/4/4" style="grid-area:2/4/3/5">fixedValue</div><div class="PAfterParameters NegativeLeftSpaceOnWide" data-WideGridArea="2/5/3/6" data-NarrowGridArea="4/1/5/5" style="grid-area:2/5/3/6">) : source(sourceValue), manual(fixedValue)</div></div></div></div>
+ <div id="NDPrototype2217" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><div class="PParameterCells" data-WideColumnCount="5" data-NarrowColumnCount="4"><div class="PBeforeParameters" data-WideGridArea="1/1/3/2" data-NarrowGridArea="1/1/2/5" style="grid-area:1/1/3/2">GeographicSourceOptions(</div><div class="PModifierQualifier InFirstParameterColumn" data-WideGridArea="1/2/2/3" data-NarrowGridArea="2/1/3/2" style="grid-area:1/2/2/3"><span class="SHKeyword">const</span> InertialTypes::</div><div class="PType" data-WideGridArea="1/3/2/4" data-NarrowGridArea="2/2/3/3" style="grid-area:1/3/2/4">GeographicSourceOption&amp;&nbsp;</div><div class="PName InLastParameterColumn" data-WideGridArea="1/4/2/5" data-NarrowGridArea="2/3/3/4" style="grid-area:1/4/2/5">sourceValue,</div><div class="PModifierQualifier InFirstParameterColumn" data-WideGridArea="2/2/3/3" data-NarrowGridArea="3/1/4/2" style="grid-area:2/2/3/3"><span class="SHKeyword">const</span>&nbsp;</div><div class="PType" data-WideGridArea="2/3/3/4" data-NarrowGridArea="3/2/4/3" style="grid-area:2/3/3/4"><span class="SHKeyword">float</span>&nbsp;</div><div class="PName InLastParameterColumn" data-WideGridArea="2/4/3/5" data-NarrowGridArea="3/3/4/4" style="grid-area:2/4/3/5">fixedValue</div><div class="PAfterParameters NegativeLeftSpaceOnWide" data-WideGridArea="2/5/3/6" data-NarrowGridArea="4/1/5/5" style="grid-area:2/5/3/6">) : source(sourceValue), manual(fixedValue)</div></div></div></div>
  <div class="CBody"><p>constructs this class from a GeographicSourceOption and a float.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">sourceValue<div class="CDLParameterType"><span class="SHKeyword">const</span> InertialTypes::GeographicSourceOption&amp;</div></td><td class="CDLDefinition"><p>The geographic source option to use.</p></td></tr><tr><td class="CDLEntry">fixedValue<div class="CDLParameterType"><span class="SHKeyword">const</span> <span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>The fixed value entered by the user to be used if the source is fixed.</p></td></tr></table></div>
 </div>
 
-<a name="Variables"></a><a name="Topic2587"></a><div class="CTopic TGroup LC">
+<a name="Variables"></a><a name="Topic2218"></a><div class="CTopic TGroup LC">
  <div class="CTitle">Variables</div>
 </div>
 
-<a name="source"></a><a name="Topic2588"></a><div class="CTopic TVariable LC">
+<a name="source"></a><a name="Topic2219"></a><div class="CTopic TVariable LC">
  <div class="CTitle">source</div>
- <div id="NDPrototype2588" class="NDPrototype"><div class="PSection PPlainSection">InertialTypes::GeographicSourceOption source</div></div>
+ <div id="NDPrototype2219" class="NDPrototype"><div class="PSection PPlainSection">InertialTypes::GeographicSourceOption source</div></div>
 </div>
 
-<a name="manual"></a><a name="Topic2589"></a><div class="CTopic TVariable LC last">
+<a name="manual"></a><a name="Topic2220"></a><div class="CTopic TVariable LC last">
  <div class="CTitle">manual</div>
- <div id="NDPrototype2589" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> manual</div></div>
+ <div id="NDPrototype2220" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> manual</div></div>
 </div>
 
 </body></html>
